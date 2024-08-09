@@ -5,6 +5,43 @@
 		"__type" : "snippets",
 		"items" : [
 			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-08-09T16:23:08.182843+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-08-09T16:25:48.022629+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "49YSl53bDQCKN7lvBiRr1A=="
+				},
+				"code" : "GtPresenterSlideShow create: ManagementReadingGroup new",
+				"elementHeight" : 1173,
+				"codeHeight" : 0,
+				"codeVisible" : false
+			},
+			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -18,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-08T12:25:25.170034+08:00"
+						"dateAndTimeString" : "2024-08-09T16:23:18.057086+08:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-08T12:25:25.170034+08:00"
+						"dateAndTimeString" : "2024-08-09T16:23:20.588503+08:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "###Wardly Map"
 			},
 			{
 				"__type" : "wardleyMap",
@@ -79,7 +116,7 @@
 							"arrow" : false,
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
+								"blue" : 0.5004887585532747,
 								"green" : 0.0,
 								"red" : 0.0
 							},
@@ -105,7 +142,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -129,7 +166,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -199,7 +236,7 @@
 							"arrow" : false,
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
+								"blue" : 0.5004887585532747,
 								"green" : 0.0,
 								"red" : 0.0
 							},
@@ -273,7 +310,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -321,7 +358,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -417,7 +454,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -441,7 +478,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -465,7 +502,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -489,7 +526,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -537,7 +574,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -559,9 +596,9 @@
 							"arrow" : false,
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.0
+								"blue" : 0.030303030303030304,
+								"green" : 0.030303030303030304,
+								"red" : 1.0
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -583,9 +620,9 @@
 							"arrow" : false,
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.0
+								"blue" : 0.030303030303030304,
+								"green" : 0.030303030303030304,
+								"red" : 1.0
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -609,7 +646,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"from" : {
 								"__type" : "uuid",
@@ -631,7 +668,7 @@
 							"arrow" : false,
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
+								"blue" : 0.5004887585532747,
 								"green" : 0.0,
 								"red" : 0.0
 							},
@@ -674,13 +711,181 @@
 								"uuid" : "8899898d-86db-0d00-b64b-98c406246bd4"
 							},
 							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "0780f9b8-86db-0d00-b656-3d1a06246bd4"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "31932212-88db-0d00-bf28-e77206246bd4"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "0780f9b8-86db-0d00-b656-3d1a06246bd4"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "5602f412-88db-0d00-bf29-049906246bd4"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.030303030303030304,
+								"green" : 0.030303030303030304,
+								"red" : 1.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "2099898d-86db-0d00-b644-791f06246bd4"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "5602f412-88db-0d00-bf29-049906246bd4"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.5004887585532747,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "877a8fd9-86db-0d00-b65b-2c4706246bd4"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.5004887585532747,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "3498898d-86db-0d00-b642-564b06246bd4"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "31932212-88db-0d00-bf28-e77206246bd4"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "5e99898d-86db-0d00-b648-dd2906246bd4"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.5004887585532747,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "cb98898d-86db-0d00-b643-8af706246bd4"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+							},
+							"width" : 1.0
 						}
 					],
 					"nodes" : [
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
+								"blue" : 0.5004887585532747,
 								"green" : 0.0,
 								"red" : 0.0
 							},
@@ -701,13 +906,13 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.36610169491525424,
-							"y" : 0.28594731509625126
+							"x" : 0.3608568151777447,
+							"y" : 0.29146329730110115
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
+								"blue" : 0.5004887585532747,
 								"green" : 0.0,
 								"red" : 0.0
 							},
@@ -728,15 +933,15 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.29000000000000004,
-							"y" : 0.8330148619957537
+							"x" : 0.29445746306673465,
+							"y" : 0.8161229701038618
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -761,9 +966,9 @@
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.0
+								"blue" : 0.030303030303030304,
+								"green" : 0.030303030303030304,
+								"red" : 1.0
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -775,22 +980,22 @@
 							},
 							"label" : {
 								"text" : "Effective Knowledge Workers",
-								"x" : 2.6666666666666665,
-								"y" : 3.0
+								"x" : 1.6666666666666667,
+								"y" : 3.3333333333333335
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.5933898305084745,
-							"y" : 0.4096930155718609
+							"x" : 0.5917730613407741,
+							"y" : 0.4125474399296154
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -817,7 +1022,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -842,9 +1047,9 @@
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.0
+								"blue" : 0.030303030303030304,
+								"green" : 0.030303030303030304,
+								"red" : 1.0
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -863,8 +1068,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.47745762711864403,
-							"y" : 0.904416135881104
+							"x" : 0.7713605008586827,
+							"y" : 0.921161464594856
 						},
 						{
 							"color" : {
@@ -890,13 +1095,13 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.59,
-							"y" : 0.09999999999999998
+							"x" : 0.5948503075031012,
+							"y" : 0.08572787821122739
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
+								"blue" : 0.5004887585532747,
 								"green" : 0.0,
 								"red" : 0.0
 							},
@@ -910,15 +1115,15 @@
 							},
 							"label" : {
 								"text" : "Corporate Goals",
-								"x" : 4.75,
-								"y" : -1.4166666666666667
+								"x" : 2.4166666666666665,
+								"y" : 2.4166666666666665
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.3888135593220339,
-							"y" : 0.5420594479830149
+							"x" : 0.3823323725001779,
+							"y" : 0.4531214674239592
 						},
 						{
 							"color" : {
@@ -937,22 +1142,22 @@
 							},
 							"label" : {
 								"text" : "Organizational Structure",
-								"x" : -0.08333333333333333,
-								"y" : 1.9166666666666667
+								"x" : 1.75,
+								"y" : 2.25
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.4076271186440678,
-							"y" : 0.6331431539955731
+							"x" : 0.40893847366721325,
+							"y" : 0.6388520027110821
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -979,7 +1184,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -1006,7 +1211,7 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 1.0
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -1032,7 +1237,7 @@
 							"color" : {
 								"alpha" : 1.0,
 								"blue" : 0.0,
-								"green" : 0.0,
+								"green" : 0.5004887585532747,
 								"red" : 0.0
 							},
 							"evolve" : {
@@ -1045,22 +1250,22 @@
 							},
 							"label" : {
 								"text" : "Employee Development",
-								"x" : 1.0833333333333333,
-								"y" : -2.5833333333333335
+								"x" : 2.25,
+								"y" : 2.1666666666666665
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.4434520656779661,
-							"y" : 0.48076847153640995
+							"x" : 0.45984400346728377,
+							"y" : 0.48742879503783715
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 0.0
+								"red" : 0.5004887585532747
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -1073,7 +1278,7 @@
 							"label" : {
 								"text" : "Effective Work  ",
 								"x" : -3.5,
-								"y" : 0.3333333333333333
+								"y" : 0.9166666666666666
 							},
 							"pipeline" : {
 								"is_visible" : false
@@ -1086,8 +1291,8 @@
 							"color" : {
 								"alpha" : 1.0,
 								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.0
+								"green" : 0.30009775171065495,
+								"red" : 0.5004887585532747
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -1112,7 +1317,7 @@
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
+								"blue" : 0.5004887585532747,
 								"green" : 0.0,
 								"red" : 0.0
 							},
@@ -1126,6 +1331,60 @@
 							},
 							"label" : {
 								"text" : "Long Term Vision",
+								"x" : 0.5833333333333334,
+								"y" : 2.1666666666666665
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.2625011770703449,
+							"y" : 0.5585767442573771
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "31932212-88db-0d00-bf28-e77206246bd4"
+							},
+							"label" : {
+								"text" : "Leadership Training",
+								"x" : 0.75,
+								"y" : 2.5833333333333335
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.4962286843360877,
+							"y" : 0.732317501652479
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "5602f412-88db-0d00-bf29-049906246bd4"
+							},
+							"label" : {
+								"text" : "Skill development",
 								"x" : 0.5,
 								"y" : 2.0
 							},
@@ -1133,8 +1392,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.261669921875,
-							"y" : 0.5565504018055027
+							"x" : 0.5674042756935428,
+							"y" : 0.7204381205942606
 						}
 					],
 					"title" : {
@@ -1142,7 +1401,7 @@
 						"text" : "Management Reading Group"
 					}
 				},
-				"snippetHeight" : 1015
+				"snippetHeight" : 1213
 			}
 		]
 	},
