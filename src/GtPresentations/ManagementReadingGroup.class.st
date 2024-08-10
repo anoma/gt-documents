@@ -77,14 +77,6 @@ ManagementReadingGroup >> bookTimelines [
 ]
 
 { #category : #accessing }
-ManagementReadingGroup >> findPage: aPageName dataBaseNamed: dbName [
-	| database |
-	database := LeDatabasesRegistry default currentLoadedDefaultLogicalDatabase
-			databaseNamed: dbName.
-	^ database pageNamed: aPageName
-]
-
-{ #category : #accessing }
 ManagementReadingGroup >> formatMeetingFor: aSlide [
 	<gtSlide>
 	^ aSlide text
@@ -142,6 +134,11 @@ ManagementReadingGroup >> formatTitle: aSlide [
 				fontSize: 40;
 				glamorousRegularFont;
 				bold)
+]
+
+{ #category : #accessing }
+ManagementReadingGroup >> idealsColor [
+	^ Color fromHexString: '#00008B'
 ]
 
 { #category : #accessing }
@@ -203,7 +200,7 @@ ManagementReadingGroup >> readingGroupGoalsSlideFor: aSlide [
 { #category : #accessing }
 ManagementReadingGroup >> readingGroupGoalsWardlySlideFor: aSlide [
 	<gtSlide>
-	| page tx1 tx2 tx3 tx4 tx5 |
+	| tx1 tx2 tx3 tx4 tx5 |
 	tx1 := 'The purpose of the reading group is:' asRopedText
 			fontSize: 50;
 			glamorousRegularFont;
@@ -216,7 +213,7 @@ ManagementReadingGroup >> readingGroupGoalsWardlySlideFor: aSlide [
 	tx3 := '• To discuss ideals.' asRopedText
 			fontSize: 40;
 			glamorousRegularFont;
-			in: [ :t | (t from: 14 to: 14 + 'ideal' size) foreground: (Color fromHexString: '#00008B') ];
+			in: [ :t | (t from: 14 to: 14 + 'ideal' size) foreground: MRGSlideUtils idealsColor ];
 			yourself.
 	tx4 := '• To increase knowledge capacity.' asRopedText
 			fontSize: 40;
@@ -234,15 +231,8 @@ ManagementReadingGroup >> readingGroupGoalsWardlySlideFor: aSlide [
 
 	^ aSlide textAndElement
 		priority: 4;
-		element: [ | wardlySnippit |
-			page := self
-					findPage: 'Management Reading Group Opening'
-					dataBaseNamed: 'Management'.
-			wardlySnippit := (page allChildrenDepthFirst
-					select: [ :child | child isKindOf: LeWardleyMapSnippet ]) first.
-			(LePage new
-				addSnippet: wardlySnippit;
-				yourself) asPreviewElement ];
+		element: [ MRGSlideUtils
+				wardleyMapAsElement: MRGSlideUtils managementReadingGroupWardleyMap ];
 		newTextWithFormat: tx1;
 		newText: ' ';
 		newText: ' ';
@@ -313,28 +303,12 @@ ManagementReadingGroup >> title: aSlide [
 ]
 
 { #category : #accessing }
-ManagementReadingGroup >> wardlyAssociations: aPageName databaseNamed: dbName [
-	| page pages |
-	page := self findPage: aPageName dataBaseNamed: dbName.
-	pages := page allOutgoingExplicitLinks
-			collect: [ :each | each targetReference content ]
-			as: Set.
-	pages add: page.
-	pages := pages as: OrderedCollection.
-	^ LeWardleyMapSnippetGroup
-		withAll: (pages
-				flatCollect: [ :aPage | 
-					aPage allChildrenDepthFirst
-						select: [ :child | child isKindOf: LeWardleyMapSnippet ] ])
-]
-
-{ #category : #accessing }
 ManagementReadingGroup >> wardlyExampleAnomaSlideFor: aSlide [
 	<gtSlide>
 	| mapSnippits |
 	^ aSlide labelAndElement
 		priority: 27;
-		element: [ mapSnippits := self
+		element: [ mapSnippits := MRGSlideUtils
 					wardlyAssociations: 'Heliax Organizational Aspects'
 					databaseNamed: 'Notes'.
 			(GtPager createWrappedOn: (mapSnippits gtViewsFor: GtPhlowView empty))
@@ -358,7 +332,7 @@ ManagementReadingGroup >> wardlyExampleTruppenfurherSlideFor: aSlide [
 	| mapSnippits |
 	^ aSlide labelAndElement
 		priority: 26;
-		element: [ mapSnippits := self
+		element: [ mapSnippits := MRGSlideUtils
 					wardlyAssociations: 'Truppenführung Concepts'
 					databaseNamed: 'Notes'.
 			(GtPager createWrappedOn: (mapSnippits gtViewsFor: GtPhlowView empty))
