@@ -1,6 +1,6 @@
 Class {
 	#name : #ManagementReadingGroup,
-	#superclass : #PrioritySlideshow,
+	#superclass : #Object,
 	#traits : 'TGtSlideShow',
 	#classTraits : 'TGtSlideShow classTrait',
 	#category : #GtPresentations

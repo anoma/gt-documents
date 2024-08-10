@@ -1,6 +1,8 @@
 Class {
 	#name : #MRGPresentation1,
-	#superclass : #PrioritySlideshow,
+	#superclass : #Object,
+	#traits : 'TGtSlideShow',
+	#classTraits : 'TGtSlideShow classTrait',
 	#category : #GtPresentations
 }
 
@@ -9,7 +11,7 @@ MRGPresentation1 >> conclusion: aSlide [
 	<gtSlide>
 	<text: 'Text with a paragraph'>
 	^ aSlide paragraph
-		priority: 9;
+		priority: 10;
 		subtitleWithFormat: ('Conclusion' asRopedText
 				glamorousRegularFont;
 				bold;
@@ -100,8 +102,13 @@ MRGPresentation1 >> miricalOfXYZ: aSlide [
 	^ aSlide textAndElement
 		elementWeight: 0.6;
 		priority: 4;
-		newTextWithFormat: (self asHeader: 'Post War Production') bold;
-		newTextWithFormat: (self asText: 'The miracle was not in the in the raw industrial capacity');
+		newTextWithFormat: ('Post War Production'  asRopedText
+				glamorousRegularFont;
+				bold;
+				fontSize: 60);
+		newTextWithFormat: ('The miracle was not in the in the raw industrial capacity' asRopedText
+				glamorousRegularFont;
+				fontSize: 30);
 		element: [ self xyzProductionTimeline ]
 ]
 
