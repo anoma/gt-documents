@@ -1,6 +1,6 @@
 Class {
 	#name : #ManagementReadingGroup,
-	#superclass : #Object,
+	#superclass : #PrioritySlideshow,
 	#traits : 'TGtSlideShow',
 	#classTraits : 'TGtSlideShow classTrait',
 	#category : #GtPresentations
@@ -287,6 +287,12 @@ ManagementReadingGroup >> readingTimelines [
 				(Date today addDays: 11) -> 'Brief Reflection on the lessons learned if any'.
 				(Date today addDays: 14) -> 'Reading Group Discussion'}.
 	^ plotter asElement
+]
+
+{ #category : #accessing }
+ManagementReadingGroup >> slidePriorities [
+	<gtExample>
+	^ #(#title: #bookRangeSlideFor: #readingGroupGoalsSlideFor: #readingGroupGoalsWardlySlideFor: #formatTitle: #formatMeetingTimeLinesFor: #formatMeetingFor: #wardlyExampleSlideFor: #wardlyExampleTruppenfurherSlideFor: #wardlyExampleAnomaSlideFor:)
 ]
 
 { #category : #accessing }
