@@ -40,6 +40,43 @@
 					"__type" : "textStyle"
 				},
 				"string" : "[[Management Reading Group Opening]]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-08-10T18:56:56.204774+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-08-10T18:57:50.036409+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2N/U2rPbDQC6op4DBaDPMA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[MRG: Concept Of the Corporation Human Effort P1]]"
 			}
 		]
 	},

@@ -1,0 +1,114 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-10T18:58:08.573892+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-10T18:58:12.647881+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "b+xC37PbDQC8OlBqBaDPMA=="
+							},
+							"code" : "GtPresenterSlideShow create: MRGPresentation1 new",
+							"elementHeight" : 606,
+							"codeHeight" : 0,
+							"codeVisible" : true
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-08-10T18:57:52.261007+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-08-10T18:59:01.181382+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "pgdK3rPbDQC8LVF8BaDPMA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Presentation"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-08-10T18:57:52.21579+08:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-08-10T18:57:52.21579+08:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "MRG: Concept Of the Corporation Human Effort P1"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "335649de-b3db-0d00-bc2c-867805a0cf30"
+	}
+}

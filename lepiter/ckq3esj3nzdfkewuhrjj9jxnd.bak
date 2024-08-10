@@ -5,10 +5,48 @@
 		"__type" : "snippets",
 		"items" : [
 			{
-				"__type" : "elementSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-09T16:23:08.182843+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-09T16:25:48.022629+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "49YSl53bDQCKN7lvBiRr1A=="
+							},
+							"code" : "GtPresenterSlideShow create: ManagementReadingGroup new",
+							"elementHeight" : 1149,
+							"codeHeight" : 24,
+							"codeVisible" : true
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -18,7 +56,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-09T16:23:08.182843+08:00"
+						"dateAndTimeString" : "2024-08-10T18:58:31.957503+08:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +67,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-09T16:25:48.022629+08:00"
+						"dateAndTimeString" : "2024-08-10T18:58:57.067937+08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "49YSl53bDQCKN7lvBiRr1A=="
+					"uidString" : "C5Ey4LPbDQC8YuTKBaDPMA=="
 				},
-				"code" : "GtPresenterSlideShow create: ManagementReadingGroup new",
-				"elementHeight" : 1277,
-				"codeHeight" : 0,
-				"codeVisible" : false
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Presentation"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +93,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-09T16:23:18.057086+08:00"
+						"dateAndTimeString" : "2024-08-10T18:59:54.435903+08:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +104,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-09T16:23:20.588503+08:00"
+						"dateAndTimeString" : "2024-08-10T19:00:02.485855+08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "ii8XJ4bbDQC2CUubBiRr1A=="
+					"uidString" : "KUCS5bPbDQC+STCeBaDPMA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Wardly Map"
+				"string" : "###Wardley Maps"
 			},
 			{
 				"__type" : "wardleyMap",
@@ -122,7 +160,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "0897898d-86db-0d00-b641-f57a06246bd4"
+								"uuid" : "bd55c560-b3db-0d00-ba64-c60305a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -132,7 +170,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "3498898d-86db-0d00-b642-564b06246bd4"
+								"uuid" : "7c56c560-b3db-0d00-ba65-303e05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -146,7 +184,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -156,7 +194,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "2099898d-86db-0d00-b644-791f06246bd4"
+								"uuid" : "f756c560-b3db-0d00-ba67-16fa05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -170,7 +208,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -180,7 +218,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "cb98898d-86db-0d00-b643-8af706246bd4"
+								"uuid" : "d656c560-b3db-0d00-ba66-37db05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -194,7 +232,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "5e99898d-86db-0d00-b648-dd2906246bd4"
+								"uuid" : "1057c560-b3db-0d00-ba6b-acb305a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -204,7 +242,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -218,7 +256,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "5e99898d-86db-0d00-b648-dd2906246bd4"
+								"uuid" : "1057c560-b3db-0d00-ba6b-acb305a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -228,7 +266,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "0897898d-86db-0d00-b641-f57a06246bd4"
+								"uuid" : "bd55c560-b3db-0d00-ba64-c60305a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -242,7 +280,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "0897898d-86db-0d00-b641-f57a06246bd4"
+								"uuid" : "bd55c560-b3db-0d00-ba64-c60305a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -252,7 +290,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+								"uuid" : "1757c560-b3db-0d00-ba6c-392605a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -266,7 +304,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -276,7 +314,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "8899898d-86db-0d00-b64b-98c406246bd4"
+								"uuid" : "1c57c560-b3db-0d00-ba6d-17fa05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -290,7 +328,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+								"uuid" : "1757c560-b3db-0d00-ba6c-392605a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -300,7 +338,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "8899898d-86db-0d00-b64b-98c406246bd4"
+								"uuid" : "1c57c560-b3db-0d00-ba6d-17fa05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -314,7 +352,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "d951f5a7-86db-0d00-b652-fa5506246bd4"
+								"uuid" : "2857c560-b3db-0d00-ba6f-add505a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -324,7 +362,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "af4e67a4-86db-0d00-b64e-ea2f06246bd4"
+								"uuid" : "2257c560-b3db-0d00-ba6e-5c8305a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -338,7 +376,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "818c2aaf-86db-0d00-b654-91ee06246bd4"
+								"uuid" : "2e57c560-b3db-0d00-ba70-839705a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -348,31 +386,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "3498898d-86db-0d00-b642-564b06246bd4"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.5004887585532747
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "cb98898d-86db-0d00-b643-8af706246bd4"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "818c2aaf-86db-0d00-b654-91ee06246bd4"
+								"uuid" : "7c56c560-b3db-0d00-ba65-303e05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -386,7 +400,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "3498898d-86db-0d00-b642-564b06246bd4"
+								"uuid" : "d656c560-b3db-0d00-ba66-37db05a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -396,7 +410,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "8899898d-86db-0d00-b64b-98c406246bd4"
+								"uuid" : "2e57c560-b3db-0d00-ba70-839705a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -410,7 +424,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
+								"uuid" : "7c56c560-b3db-0d00-ba65-303e05a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -420,7 +434,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "0780f9b8-86db-0d00-b656-3d1a06246bd4"
+								"uuid" : "1c57c560-b3db-0d00-ba6d-17fa05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -434,7 +448,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "0780f9b8-86db-0d00-b656-3d1a06246bd4"
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -444,103 +458,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "2099898d-86db-0d00-b644-791f06246bd4"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.5004887585532747
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "d951f5a7-86db-0d00-b652-fa5506246bd4"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.5004887585532747
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "af4e67a4-86db-0d00-b64e-ea2f06246bd4"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.5004887585532747
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "4299898d-86db-0d00-b646-ac3006246bd4"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.5004887585532747
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
+								"uuid" : "3457c560-b3db-0d00-ba71-50f005a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -554,7 +472,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "2099898d-86db-0d00-b644-791f06246bd4"
+								"uuid" : "3457c560-b3db-0d00-ba71-50f005a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -564,7 +482,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
+								"uuid" : "f756c560-b3db-0d00-ba67-16fa05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -578,7 +496,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "cb98898d-86db-0d00-b643-8af706246bd4"
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -588,7 +506,127 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
+								"uuid" : "2857c560-b3db-0d00-ba6f-add505a0cf30"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.5004887585532747
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "2257c560-b3db-0d00-ba6e-5c8305a0cf30"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.5004887585532747
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "0457c560-b3db-0d00-ba69-cc0f05a0cf30"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.5004887585532747
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "f756c560-b3db-0d00-ba67-16fa05a0cf30"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.5004887585532747
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "d656c560-b3db-0d00-ba66-37db05a0cf30"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -602,7 +640,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -612,7 +650,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "4f99898d-86db-0d00-b647-8f8206246bd4"
+								"uuid" : "0a57c560-b3db-0d00-ba6a-fca005a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -626,7 +664,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -636,7 +674,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "818c2aaf-86db-0d00-b654-91ee06246bd4"
+								"uuid" : "2e57c560-b3db-0d00-ba70-839705a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -650,7 +688,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -660,7 +698,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "1864c8d6-86db-0d00-b65a-2ac206246bd4"
+								"uuid" : "4057c560-b3db-0d00-ba73-f92005a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -674,7 +712,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "0897898d-86db-0d00-b641-f57a06246bd4"
+								"uuid" : "bd55c560-b3db-0d00-ba64-c60305a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -684,7 +722,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "877a8fd9-86db-0d00-b65b-2c4706246bd4"
+								"uuid" : "4657c560-b3db-0d00-ba74-b90005a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -698,7 +736,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "877a8fd9-86db-0d00-b65b-2c4706246bd4"
+								"uuid" : "4657c560-b3db-0d00-ba74-b90005a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -708,7 +746,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "8899898d-86db-0d00-b64b-98c406246bd4"
+								"uuid" : "1c57c560-b3db-0d00-ba6d-17fa05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -722,7 +760,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "0780f9b8-86db-0d00-b656-3d1a06246bd4"
+								"uuid" : "3457c560-b3db-0d00-ba71-50f005a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -732,7 +770,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "31932212-88db-0d00-bf28-e77206246bd4"
+								"uuid" : "4c57c560-b3db-0d00-ba75-b56f05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -746,7 +784,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "0780f9b8-86db-0d00-b656-3d1a06246bd4"
+								"uuid" : "3457c560-b3db-0d00-ba71-50f005a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -756,7 +794,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "5602f412-88db-0d00-bf29-049906246bd4"
+								"uuid" : "5257c560-b3db-0d00-ba76-c12c05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -770,7 +808,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "2099898d-86db-0d00-b644-791f06246bd4"
+								"uuid" : "f756c560-b3db-0d00-ba67-16fa05a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -780,7 +818,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "5602f412-88db-0d00-bf29-049906246bd4"
+								"uuid" : "5257c560-b3db-0d00-ba76-c12c05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -794,7 +832,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "877a8fd9-86db-0d00-b65b-2c4706246bd4"
+								"uuid" : "4657c560-b3db-0d00-ba74-b90005a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -804,7 +842,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+								"uuid" : "1757c560-b3db-0d00-ba6c-392605a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -818,7 +856,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "3498898d-86db-0d00-b642-564b06246bd4"
+								"uuid" : "7c56c560-b3db-0d00-ba65-303e05a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -828,7 +866,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "31932212-88db-0d00-bf28-e77206246bd4"
+								"uuid" : "4c57c560-b3db-0d00-ba75-b56f05a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -842,7 +880,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "5e99898d-86db-0d00-b648-dd2906246bd4"
+								"uuid" : "1057c560-b3db-0d00-ba6b-acb305a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -852,7 +890,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+								"uuid" : "1757c560-b3db-0d00-ba6c-392605a0cf30"
 							},
 							"width" : 1.0
 						},
@@ -866,7 +904,7 @@
 							},
 							"from" : {
 								"__type" : "uuid",
-								"uuid" : "cb98898d-86db-0d00-b643-8af706246bd4"
+								"uuid" : "d656c560-b3db-0d00-ba66-37db05a0cf30"
 							},
 							"label" : {
 								"is_visible" : false,
@@ -876,7 +914,7 @@
 							},
 							"to" : {
 								"__type" : "uuid",
-								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+								"uuid" : "1757c560-b3db-0d00-ba6c-392605a0cf30"
 							},
 							"width" : 1.0
 						}
@@ -895,7 +933,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "0897898d-86db-0d00-b641-f57a06246bd4"
+								"uuid" : "bd55c560-b3db-0d00-ba64-c60305a0cf30"
 							},
 							"label" : {
 								"text" : "Corporate Ideals",
@@ -906,8 +944,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.3608568151777447,
-							"y" : 0.29146329730110115
+							"x" : 0.37,
+							"y" : 0.29000000000000004
 						},
 						{
 							"color" : {
@@ -922,7 +960,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "3498898d-86db-0d00-b642-564b06246bd4"
+								"uuid" : "7c56c560-b3db-0d00-ba65-303e05a0cf30"
 							},
 							"label" : {
 								"text" : "Leadership Principles",
@@ -933,8 +971,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.29445746306673465,
-							"y" : 0.8161229701038618
+							"x" : 0.3,
+							"y" : 0.81
 						},
 						{
 							"color" : {
@@ -949,7 +987,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "cb98898d-86db-0d00-b643-8af706246bd4"
+								"uuid" : "d656c560-b3db-0d00-ba66-37db05a0cf30"
 							},
 							"label" : {
 								"text" : "Priorities",
@@ -960,8 +998,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.9457627118644067,
-							"y" : 0.5677707006369427
+							"x" : 0.95,
+							"y" : 0.56
 						},
 						{
 							"color" : {
@@ -976,7 +1014,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "2099898d-86db-0d00-b644-791f06246bd4"
+								"uuid" : "f756c560-b3db-0d00-ba67-16fa05a0cf30"
 							},
 							"label" : {
 								"text" : "Effective Knowledge Workers",
@@ -987,8 +1025,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.5917730613407741,
-							"y" : 0.4125474399296154
+							"x" : 0.6,
+							"y" : 0.41000000000000003
 						},
 						{
 							"color" : {
@@ -1003,7 +1041,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "3499898d-86db-0d00-b645-ee8a06246bd4"
+								"uuid" : "fe56c560-b3db-0d00-ba68-a33805a0cf30"
 							},
 							"label" : {
 								"text" : "Effective Management",
@@ -1014,8 +1052,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6061016949152542,
-							"y" : 0.2946284501061571
+							"x" : 0.61,
+							"y" : 0.29000000000000004
 						},
 						{
 							"color" : {
@@ -1030,7 +1068,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "4299898d-86db-0d00-b646-ac3006246bd4"
+								"uuid" : "0457c560-b3db-0d00-ba69-cc0f05a0cf30"
 							},
 							"label" : {
 								"text" : "Dedicated Focus",
@@ -1041,8 +1079,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6833898305084746,
-							"y" : 0.7797992372175865
+							"x" : 0.69,
+							"y" : 0.77
 						},
 						{
 							"color" : {
@@ -1057,7 +1095,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "4f99898d-86db-0d00-b647-8f8206246bd4"
+								"uuid" : "0a57c560-b3db-0d00-ba6a-fca005a0cf30"
 							},
 							"label" : {
 								"text" : "Communication",
@@ -1068,8 +1106,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.7713605008586827,
-							"y" : 0.921161464594856
+							"x" : 0.78,
+							"y" : 0.92
 						},
 						{
 							"color" : {
@@ -1084,7 +1122,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "5e99898d-86db-0d00-b648-dd2906246bd4"
+								"uuid" : "1057c560-b3db-0d00-ba6b-acb305a0cf30"
 							},
 							"label" : {
 								"text" : "Effective Business",
@@ -1095,8 +1133,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.5948503075031012,
-							"y" : 0.08572787821122739
+							"x" : 0.6,
+							"y" : 0.07999999999999996
 						},
 						{
 							"color" : {
@@ -1111,7 +1149,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "6b99898d-86db-0d00-b649-d6d806246bd4"
+								"uuid" : "1757c560-b3db-0d00-ba6c-392605a0cf30"
 							},
 							"label" : {
 								"text" : "Corporate Goals",
@@ -1122,8 +1160,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.3823323725001779,
-							"y" : 0.4531214674239592
+							"x" : 0.39,
+							"y" : 0.43999999999999995
 						},
 						{
 							"color" : {
@@ -1138,7 +1176,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "8899898d-86db-0d00-b64b-98c406246bd4"
+								"uuid" : "1c57c560-b3db-0d00-ba6d-17fa05a0cf30"
 							},
 							"label" : {
 								"text" : "Organizational Structure",
@@ -1149,8 +1187,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.40893847366721325,
-							"y" : 0.6388520027110821
+							"x" : 0.42,
+							"y" : 0.64
 						},
 						{
 							"color" : {
@@ -1165,7 +1203,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "af4e67a4-86db-0d00-b64e-ea2f06246bd4"
+								"uuid" : "2257c560-b3db-0d00-ba6e-5c8305a0cf30"
 							},
 							"label" : {
 								"text" : "Objective Metrics",
@@ -1176,8 +1214,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.7515480170815678,
-							"y" : 0.6896845673473758
+							"x" : 0.76,
+							"y" : 0.6699999999999999
 						},
 						{
 							"color" : {
@@ -1192,7 +1230,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "d951f5a7-86db-0d00-b652-fa5506246bd4"
+								"uuid" : "2857c560-b3db-0d00-ba6f-add505a0cf30"
 							},
 							"label" : {
 								"text" : "Focuses On Contributions",
@@ -1203,14 +1241,14 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.8339458918167375,
-							"y" : 0.6327805587448232
+							"x" : 0.84,
+							"y" : 0.63
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
+								"blue" : 0.030303030303030304,
+								"green" : 0.030303030303030304,
 								"red" : 1.0
 							},
 							"evolve" : {
@@ -1219,7 +1257,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "818c2aaf-86db-0d00-b654-91ee06246bd4"
+								"uuid" : "2e57c560-b3db-0d00-ba70-839705a0cf30"
 							},
 							"label" : {
 								"text" : "Engagement",
@@ -1230,8 +1268,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6235330872616526,
-							"y" : 0.9244367383727561
+							"x" : 0.63,
+							"y" : 0.92
 						},
 						{
 							"color" : {
@@ -1246,7 +1284,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "0780f9b8-86db-0d00-b656-3d1a06246bd4"
+								"uuid" : "3457c560-b3db-0d00-ba71-50f005a0cf30"
 							},
 							"label" : {
 								"text" : "Employee Development",
@@ -1257,8 +1295,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.45984400346728377,
-							"y" : 0.48742879503783715
+							"x" : 0.46,
+							"y" : 0.48
 						},
 						{
 							"color" : {
@@ -1273,25 +1311,25 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "105200c7-86db-0d00-b658-7e5a06246bd4"
+								"uuid" : "3a57c560-b3db-0d00-ba72-e5e405a0cf30"
 							},
 							"label" : {
-								"text" : "Effective Work  ",
-								"x" : -3.5,
-								"y" : 0.9166666666666666
+								"text" : "Effective Work",
+								"x" : -3.9166666666666665,
+								"y" : 0.5833333333333334
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6484958454713982,
-							"y" : 0.5439576232003052
+							"x" : 0.67,
+							"y" : 0.54
 						},
 						{
 							"color" : {
 								"alpha" : 1.0,
 								"blue" : 0.0,
-								"green" : 0.30009775171065495,
+								"green" : 0.0,
 								"red" : 0.5004887585532747
 							},
 							"evolve" : {
@@ -1300,7 +1338,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "1864c8d6-86db-0d00-b65a-2ac206246bd4"
+								"uuid" : "4057c560-b3db-0d00-ba73-f92005a0cf30"
 							},
 							"label" : {
 								"text" : "Focuses On Strengths",
@@ -1311,8 +1349,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.7626435877913136,
-							"y" : 0.46016600784982087
+							"x" : 0.77,
+							"y" : 0.45999999999999996
 						},
 						{
 							"color" : {
@@ -1327,7 +1365,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "877a8fd9-86db-0d00-b65b-2c4706246bd4"
+								"uuid" : "4657c560-b3db-0d00-ba74-b90005a0cf30"
 							},
 							"label" : {
 								"text" : "Long Term Vision",
@@ -1338,8 +1376,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.2625011770703449,
-							"y" : 0.5585767442573771
+							"x" : 0.27,
+							"y" : 0.55
 						},
 						{
 							"color" : {
@@ -1354,7 +1392,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "31932212-88db-0d00-bf28-e77206246bd4"
+								"uuid" : "4c57c560-b3db-0d00-ba75-b56f05a0cf30"
 							},
 							"label" : {
 								"text" : "Leadership Training",
@@ -1365,8 +1403,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.4962286843360877,
-							"y" : 0.732317501652479
+							"x" : 0.5,
+							"y" : 0.73
 						},
 						{
 							"color" : {
@@ -1381,7 +1419,7 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "5602f412-88db-0d00-bf29-049906246bd4"
+								"uuid" : "5257c560-b3db-0d00-ba76-c12c05a0cf30"
 							},
 							"label" : {
 								"text" : "Skill development",
@@ -1392,8 +1430,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.5674042756935428,
-							"y" : 0.7204381205942606
+							"x" : 0.57,
+							"y" : 0.71
 						}
 					],
 					"title" : {
@@ -1401,7 +1439,7 @@
 						"text" : "Management Reading Group"
 					}
 				},
-				"snippetHeight" : 1213
+				"snippetHeight" : 1073
 			}
 		]
 	},
