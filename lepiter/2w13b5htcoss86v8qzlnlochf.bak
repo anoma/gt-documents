@@ -44,7 +44,7 @@
 							"code" : "GtPresenterSlideShow create: MRGPresentation1 new",
 							"elementHeight" : 606,
 							"codeHeight" : 0,
-							"codeVisible" : true
+							"codeVisible" : false
 						}
 					]
 				},

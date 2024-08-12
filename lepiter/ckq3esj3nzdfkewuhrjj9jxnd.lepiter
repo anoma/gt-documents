@@ -10,6 +10,40 @@
 					"__type" : "snippets",
 					"items" : [
 						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-12T21:40:50.487802+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-12T21:40:57.308655+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "eqnMYN7bDQC3g7W3Dv6OJw=="
+							},
+							"code" : "GtPresenterSlideShow openInSpace: ManagementReadingGroup"
+						},
+						{
 							"__type" : "elementSnippet",
 							"children" : {
 								"__type" : "snippets",

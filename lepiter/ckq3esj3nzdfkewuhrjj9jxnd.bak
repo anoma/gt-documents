@@ -10,6 +10,43 @@
 					"__type" : "snippets",
 					"items" : [
 						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-12T21:39:51.883209+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-12T21:39:51.883209+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "/GlOXd7bDQC3ZPUCDv6OJw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
+						},
+						{
 							"__type" : "elementSnippet",
 							"children" : {
 								"__type" : "snippets",
@@ -42,9 +79,9 @@
 								"uidString" : "49YSl53bDQCKN7lvBiRr1A=="
 							},
 							"code" : "GtPresenterSlideShow create: ManagementReadingGroup new",
-							"elementHeight" : 1149,
-							"codeHeight" : 24,
-							"codeVisible" : true
+							"elementHeight" : 1173,
+							"codeHeight" : 0,
+							"codeVisible" : false
 						}
 					]
 				},
@@ -1439,7 +1476,7 @@
 						"text" : "Management Reading Group"
 					}
 				},
-				"snippetHeight" : 1073
+				"snippetHeight" : 1215
 			}
 		]
 	},
