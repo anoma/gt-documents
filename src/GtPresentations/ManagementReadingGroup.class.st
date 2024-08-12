@@ -22,7 +22,7 @@ ManagementReadingGroup >> bookRangeSlideFor: aSlide [
 		newTextWithFormat: ('Covers a Wide Range of Books' asRopedText
 				fontSize: 35;
 				glamorousRegularFont);
-		newTextWithFormat: ('  • From Corporate ideals' asRopedText
+		newTextWithFormat: ('  • From Corporate Ideals' asRopedText
 				fontSize: 35;
 				glamorousRegularFont);
 		newTextWithFormat: ('  • To Tactics' asRopedText
@@ -282,7 +282,7 @@ ManagementReadingGroup >> readingTimelines [
 { #category : #accessing }
 ManagementReadingGroup >> slidePriorities [
 	<gtExample>
-	^ #(#title: #bookRangeSlideFor: #readingGroupGoalsSlideFor: #readingGroupGoalsWardlySlideFor: #formatTitle: #formatMeetingTimeLinesFor: #formatMeetingFor: #wardlyExampleSlideFor: #wardlyExampleTruppenfurherSlideFor: #wardlyExampleAnomaSlideFor:)
+	^ #(#title: #bookRangeSlideFor: #readingGroupGoalsSlideFor: #readingGroupGoalsWardlySlideFor: #formatTitle: #formatMeetingFor: #formatMeetingTimeLinesFor: #wardleyMappings: #wardlyExampleSlideFor: #wardlyExampleTruppenfurherSlideFor: #wardlyExampleAnomaSlideFor:)
 ]
 
 { #category : #accessing }
@@ -297,6 +297,23 @@ ManagementReadingGroup >> title: aSlide [
 				in: [ :t | (t from: 1 to: 'Management' size + 1) bold ];
 				yourself);
 		subtitleWithFormat: ('Introduction' asRopedText
+				fontSize: 40;
+				glamorousRegularFont;
+				bold)
+]
+
+{ #category : #slides }
+ManagementReadingGroup >> wardleyMappings: aSlide [
+	<gtSlide>
+	^ aSlide title
+		priority: 8;
+		titleWithFormat: ('Wardley Mapping' asRopedText
+				fontSize: 60;
+				glamorousRegularFont;
+				thin;
+				in: [ :t | (t from: 1 to: 'Wardley' size + 1) bold ];
+				yourself);
+		subtitleWithFormat: ('On Productive Tools' asRopedText
 				fontSize: 40;
 				glamorousRegularFont;
 				bold)
