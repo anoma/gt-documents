@@ -43,6 +43,11 @@ MRGSlideUtils class >> leadershipPrinciplesInWardleyMap [
 		withNodeName: 'Leadership Principles'
 ]
 
+{ #category : #colors }
+MRGSlideUtils class >> manageColor [
+	^ Color brown
+]
+
 { #category : #'wardley - examples' }
 MRGSlideUtils class >> managementReadingGroupWardleyMap [
 	<gtExample>

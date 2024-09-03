@@ -208,7 +208,7 @@ ManagementReadingGroup >> readingGroupGoalsWardlySlideFor: aSlide [
 	tx2 := '• To better manage ourselves and others.' asRopedText
 			fontSize: 40;
 			glamorousRegularFont;
-			in: [ :t | (t from: 12 to: 12 + 'manage' size + 1) foreground: Color brown ];
+			in: [ :t | (t from: 12 to: 12 + 'manage' size + 1) foreground: MRGSlideUtils manageColor ];
 			yourself.
 	tx3 := '• To discuss ideals.' asRopedText
 			fontSize: 40;
