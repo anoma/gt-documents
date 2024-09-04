@@ -10,7 +10,7 @@
 					"__type" : "snippets",
 					"items" : [
 						{
-							"__type" : "textSnippet",
+							"__type" : "pharoSnippet",
 							"children" : {
 								"__type" : "snippets",
 								"items" : [ ]
@@ -23,7 +23,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-08-12T21:39:51.883209+08:00"
+									"dateAndTimeString" : "2024-08-12T21:40:50.487802+08:00"
 								}
 							},
 							"editEmail" : {
@@ -34,17 +34,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-08-12T21:39:51.883209+08:00"
+									"dateAndTimeString" : "2024-08-12T21:40:57.308655+08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "/GlOXd7bDQC3ZPUCDv6OJw=="
+								"uidString" : "eqnMYN7bDQC3g7W3Dv6OJw=="
 							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
+							"code" : "GtPresenterSlideShow openInSpace: ManagementReadingGroup"
 						},
 						{
 							"__type" : "elementSnippet",

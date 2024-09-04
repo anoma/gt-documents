@@ -4,6 +4,22 @@ Class {
 	#category : #GtPresentations
 }
 
+{ #category : #accessing }
+MRGSlideUtils class >> EffectiveKnowledgeWorkersInWardleyMap [
+	<gtExample>
+	^ self
+		highlightWardley: self managementReadingGroupWardleyMap
+		withNodeName: 'Effective Knowledge Workers'
+]
+
+{ #category : #accessing }
+MRGSlideUtils class >> EffectiveWorkInWardleyMap [
+	<gtExample>
+	^ self
+		highlightWardley: self managementReadingGroupWardleyMap
+		withNodeName: 'Effective Work'
+]
+
 { #category : #lepiter }
 MRGSlideUtils class >> findPage: aPageName dataBaseNamed: dbName [
 	| database |
