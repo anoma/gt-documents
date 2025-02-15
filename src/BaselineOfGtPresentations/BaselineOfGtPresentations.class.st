@@ -22,7 +22,15 @@ BaselineOfGtPresentations class >> loadLepiter [
 { #category : #baseline }
 BaselineOfGtPresentations >> baseline: spec [
 	<baseline>
-		^ spec for: #common do: [
-			spec package: 'GtPresentations'
-		]
+	^ spec
+		for: #common
+		do: [ self gtSlideShowExtension: spec.
+			spec package: 'GtPresentations' ]
+]
+
+{ #category : #'as yet unclassified' }
+BaselineOfGtPresentations >> gtSlideShowExtension: spec [
+	spec
+		baseline: 'GtSlideshowExtensions'
+		with: [ spec repository: 'github://botwhytho/GtSlideshowExtensions:main/src' ]
 ]
