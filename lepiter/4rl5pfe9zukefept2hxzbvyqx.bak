@@ -68,17 +68,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-09-04T13:32:45.40371+08:00"
+									"dateAndTimeString" : "2024-09-04T13:33:15.711502+08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "zF6fPabdDQCZBSHtAkyCUA=="
 							},
-							"code" : "",
-							"elementHeight" : 100,
-							"codeHeight" : 50,
-							"codeVisible" : true
+							"code" : "GtPresenterSlideShow create: MRGPresentation2 new",
+							"elementHeight" : 566,
+							"codeHeight" : 0,
+							"codeVisible" : false
 						}
 					]
 				},

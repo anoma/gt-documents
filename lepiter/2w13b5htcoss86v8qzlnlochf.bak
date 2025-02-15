@@ -10,6 +10,40 @@
 					"__type" : "snippets",
 					"items" : [
 						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-12T21:42:11.838167+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-08-12T21:42:16.419212+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "UfmlZd7bDQC3lW83Dv6OJw=="
+							},
+							"code" : "GtPresenterSlideShow openInSpace: MRGPresentation1"
+						},
+						{
 							"__type" : "elementSnippet",
 							"children" : {
 								"__type" : "snippets",

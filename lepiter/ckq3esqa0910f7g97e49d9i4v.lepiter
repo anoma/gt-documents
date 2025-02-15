@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-10T18:57:50.036409+08:00"
+						"dateAndTimeString" : "2025-02-15T14:57:13.667758+08:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[MRG: Concept Of the Corporation Human Effort P1]]"
+				"string" : "[[Concept Of the Corporation Human Effort]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-09-04T13:31:49.624658+08:00"
+						"dateAndTimeString" : "2025-02-15T14:57:05.447503+08:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[MRG: Concept Of the Corporation Human Effort P2]]"
+				"string" : "[[The Effective Executive:  Effectiveness Can be Learned]]"
 			}
 		]
 	},
