@@ -1,6 +1,6 @@
 Class {
 	#name : #MRGPresentation1,
-	#superclass : #Object,
+	#superclass : #PrioritySlideshow,
 	#traits : 'TGtSlideShow',
 	#classTraits : 'TGtSlideShow classTrait',
 	#category : #GtPresentations
