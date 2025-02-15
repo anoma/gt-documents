@@ -68,14 +68,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-02-15T15:14:17.111802+08:00"
+									"dateAndTimeString" : "2025-02-15T15:15:24.253409+08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "ejePxorqDQC2WnEOAIVTEw=="
 							},
-							"code" : "GtPresenterSlideShow openInSpace: MRGPresentation3",
+							"code" : "GtPresenterSlideShow create: MRGPresentation2 new",
 							"elementHeight" : 216,
 							"codeHeight" : 50,
 							"codeVisible" : true

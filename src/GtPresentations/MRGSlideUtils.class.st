@@ -91,6 +91,14 @@ MRGSlideUtils class >> organizationalStructureInWardleyMap [
 		withNodeName: 'Organizational Structure'
 ]
 
+{ #category : #accessing }
+MRGSlideUtils class >> prioritiesInWardleyMap [
+	<gtExample>
+	^ self
+		highlightWardley: self managementReadingGroupWardleyMap
+		withNodeName: 'Priorities'
+]
+
 { #category : #wardley }
 MRGSlideUtils class >> wardleyMapAsElement: wardleyElement [
 	"Hack to get around no asElement for Wardley maps"
