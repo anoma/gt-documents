@@ -114,6 +114,43 @@
 					"__type" : "textStyle"
 				},
 				"string" : "[[The Effective Executive:  Effectiveness Can be Learned]]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-02-15T15:13:03.724027+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-02-15T15:13:10.051115+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "tEsnworqDQC1m1gJAIVTEw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[The Effective Executive:  Know Thy Time]]"
 			}
 		]
 	},
