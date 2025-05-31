@@ -134,12 +134,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-02-15T14:57:13.655727+08:00"
+			"dateAndTimeString" : "2025-06-01T00:57:00.080077+08:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Concept Of the Corporation Human Effort"
+		"title" : "Concept Of the Corporation: Human Effort"
 	},
 	"uid" : {
 		"__type" : "uuid",

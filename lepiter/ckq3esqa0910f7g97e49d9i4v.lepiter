@@ -23,7 +23,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-08-10T18:56:56.204774+08:00"
+									"dateAndTimeString" : "2025-06-01T00:56:51.904171+08:00"
 								}
 							},
 							"editEmail" : {
@@ -34,17 +34,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-08-10T18:57:50.036409+08:00"
+									"dateAndTimeString" : "2025-06-01T00:57:00.102169+08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "2N/U2rPbDQC6op4DBaDPMA=="
+								"uidString" : "TJw9J9PyDQCS/9e/A8z6FQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[MRG: Concept Of the Corporation Human Effort P1]]"
+							"string" : "[[Concept Of the Corporation: Human Effort]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -60,7 +60,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-09-04T13:31:48.11034+08:00"
+									"dateAndTimeString" : "2025-06-01T00:56:37.744365+08:00"
 								}
 							},
 							"editEmail" : {
@@ -71,7 +71,44 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-12-17T21:49:26.045647+08:00"
+									"dateAndTimeString" : "2025-06-01T00:56:37.752288+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "2N/U2rPbDQC6op4DBaDPMA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[The Effective Executive:  Effectiveness Can be Learned]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-01T00:56:27.263992+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-01T00:56:27.270446+08:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +118,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[MRG: The Effective Executive: Effectiveness Can be Learned]]"
+							"string" : "[[The Effective Executive:  Know Thy Time]]"
 						}
 					]
 				},
