@@ -2,7 +2,7 @@
 
 ```st
 Metacello new
-	repository: 'github://mariari/reading-groups:master/src';
+	repository: 'github://mariari/gt-documents:master/src';
 	baseline: 'GtPresentations';
 	load
 ```
