@@ -1,0 +1,1886 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "wardleyMap",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-01T22:04:39.395041+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-01T22:04:39.395041+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "aFFkQHXwDQCwK+T7A3lG+g=="
+							},
+							"wardleyMapDictionary" : {
+								"edges" : [
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "5aac6c4d-75f0-0d00-b03e-8390037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "e4f6074d-75f0-0d00-b03d-03a5037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "bb57f950-75f0-0d00-b040-f6df037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "5aac6c4d-75f0-0d00-b03e-8390037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : true,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "46ead04a-75f0-0d00-b03c-61ae037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "bb57f950-75f0-0d00-b040-f6df037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "7ba78d46-75f0-0d00-b03a-acff037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "46ead04a-75f0-0d00-b03c-61ae037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "7ba78d46-75f0-0d00-b03a-acff037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "4df7e343-75f0-0d00-b036-c1d7037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "4df7e343-75f0-0d00-b036-c1d7037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "28229c5a-75f0-0d00-b047-1c40037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "eedebc40-75f0-0d00-b034-7e18037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "7ba78d46-75f0-0d00-b03a-acff037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "df807c44-75f0-0d00-b037-407a037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "7ba78d46-75f0-0d00-b03a-acff037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "df807c44-75f0-0d00-b037-407a037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "bb57f950-75f0-0d00-b040-f6df037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "df807c44-75f0-0d00-b037-407a037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "6962a054-75f0-0d00-b041-c179037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "df807c44-75f0-0d00-b037-407a037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "4df7e343-75f0-0d00-b036-c1d7037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "df807c44-75f0-0d00-b037-407a037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "e4f6074d-75f0-0d00-b03d-03a5037946fa"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "bf651850-75f0-0d00-b03f-8464037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "f037706b-31f2-0d00-9952-439506bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "eedebc40-75f0-0d00-b034-7e18037946fa"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "bf651850-75f0-0d00-b03f-8464037946fa"
+										},
+										"width" : 1.0
+									}
+								],
+								"nodes" : [
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "eedebc40-75f0-0d00-b034-7e18037946fa"
+										},
+										"label" : {
+											"text" : "Documents for V0.3",
+											"x" : 0.8333333333333334,
+											"y" : -0.5
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.48595265894059475,
+										"y" : 0.060434909168392746
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.5004887585532747,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "4df7e343-75f0-0d00-b036-c1d7037946fa"
+										},
+										"label" : {
+											"text" : "Key Spaces Design",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.6262935098313707,
+										"y" : 0.37385253003557717
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.5004887585532747,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "df807c44-75f0-0d00-b037-407a037946fa"
+										},
+										"label" : {
+											"text" : "Error Handling",
+											"x" : 0.6666666666666666,
+											"y" : -0.7499999999999934
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "b9909845-75f0-0d00-b039-481a037946fa"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "4b455d45-75f0-0d00-b038-1988037946fa"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.31655558279503804,
+											"y" : 0.4742385835282753
+										},
+										"width" : 12,
+										"x" : 0.40561287546765795,
+										"y" : 0.34954207048397434
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.5004887585532747,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "4b455d45-75f0-0d00-b038-1988037946fa"
+										},
+										"label" : {
+											"text" : "VM Errors",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.4642385835282753,
+										"y" : 0.34954207048397434
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.5004887585532747,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "b9909845-75f0-0d00-b039-481a037946fa"
+										},
+										"label" : {
+											"text" : "System Errors",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.32655558279503805,
+										"y" : 0.34954207048397434
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "7ba78d46-75f0-0d00-b03a-acff037946fa"
+										},
+										"label" : {
+											"text" : "LD Execution Design",
+											"x" : -2.8333333333333335,
+											"y" : -0.9166666666666666
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5544302047486015,
+										"y" : 0.21838582628405653
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "46ead04a-75f0-0d00-b03c-61ae037946fa"
+										},
+										"label" : {
+											"text" : "Identity Design",
+											"x" : 3.4166666666666665,
+											"y" : 1.9166666666666667
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5296703329997939,
+										"y" : 0.43053149481542574
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "e4f6074d-75f0-0d00-b03d-03a5037946fa"
+										},
+										"label" : {
+											"text" : "Pub Sub",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.31389856375056363,
+										"y" : 0.7594584605325108
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "5aac6c4d-75f0-0d00-b03e-8390037946fa"
+										},
+										"label" : {
+											"text" : "Event System",
+											"x" : 1.75,
+											"y" : 1.75
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.34802088786223623,
+										"y" : 0.6925769701059435
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "bf651850-75f0-0d00-b03f-8464037946fa"
+										},
+										"label" : {
+											"text" : "PA",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.7076047055927478,
+										"y" : 0.2880447061273951
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "bb57f950-75f0-0d00-b040-f6df037946fa"
+										},
+										"label" : {
+											"text" : "Controller to Controller",
+											"x" : 0.33333333333333354,
+											"y" : 1.75
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5025416244241636,
+										"y" : 0.5600294339327498
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "6962a054-75f0-0d00-b041-c179037946fa"
+										},
+										"label" : {
+											"text" : "Outside Ccommunication",
+											"x" : 1.8333333333333333,
+											"y" : -0.5
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "39d46758-75f0-0d00-b044-b383037946fa"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "ea25c058-75f0-0d00-b045-74be037946fa"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "34272c59-75f0-0d00-b046-a10c037946fa"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.46289758281314375,
+											"y" : 0.6263977909874442
+										},
+										"width" : 12,
+										"x" : 0.5418667710229987,
+										"y" : 0.7538696082290923
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "39d46758-75f0-0d00-b044-b383037946fa"
+										},
+										"label" : {
+											"text" : "IO",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.6163977909874442,
+										"y" : 0.7538696082290923
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "ea25c058-75f0-0d00-b045-74be037946fa"
+										},
+										"label" : {
+											"text" : "Port",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5945832961169928,
+										"y" : 0.7538696082290923
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "34272c59-75f0-0d00-b046-a10c037946fa"
+										},
+										"label" : {
+											"text" : "FFI",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.47289758281314376,
+										"y" : 0.7538696082290923
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.8504398826979472,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "28229c5a-75f0-0d00-b047-1c40037946fa"
+										},
+										"label" : {
+											"text" : "Storage",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.6844730096509782,
+										"y" : 0.8782572172855457
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "01778963-75f0-0d00-b04f-1474037946fa"
+										},
+										"label" : {
+											"text" : "Intent Pool",
+											"x" : 1.75,
+											"y" : 1.916666666666667
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.02448880987969588,
+										"y" : 0.02227039147623361
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "c04a8165-75f0-0d00-b052-65c1037946fa"
+										},
+										"label" : {
+											"text" : "Solvers",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.023682135924160748,
+										"y" : 0.1002104967275958
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "d748537e-a4f1-0d00-adcd-4d1f04ee3367"
+										},
+										"label" : {
+											"text" : "Further VM Discussions",
+											"x" : 1.0,
+											"y" : 2.3333333333333335
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.2691006756362741,
+										"y" : 0.24052774840296962
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "f037706b-31f2-0d00-9952-439506bce511"
+										},
+										"label" : {
+											"text" : "Event Writng",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.7281151456110837,
+										"y" : 0.4847466729981615
+									}
+								],
+								"notes" : [
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.8504398826979472,
+											"red" : 0.0
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "8423045c-75f0-0d00-b048-cdc9037946fa"
+										},
+										"label" : "Specs",
+										"x" : 0.9747665518047693,
+										"y" : 0.12850397822915685
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "28b0e65c-75f0-0d00-b049-87ae037946fa"
+										},
+										"label" : "Ray",
+										"x" : 0.9769318907249475,
+										"y" : 0.16717483253157883
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "d6a67c5f-75f0-0d00-b04c-a2a8037946fa"
+										},
+										"label" : "Christophe",
+										"x" : 0.9746135474949496,
+										"y" : 0.05577883825178097
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "cabc0b61-75f0-0d00-b04d-f887037946fa"
+										},
+										"label" : "Michael",
+										"x" : 0.9754007031177534,
+										"y" : 0.09439755857527538
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "09d4e663-75f0-0d00-b050-d8eb037946fa"
+										},
+										"label" : "Engineering",
+										"x" : 0.9741347274574741,
+										"y" : 0.01674641148325359
+									}
+								]
+							},
+							"snippetHeight" : 585
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-01T22:03:58.843241+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-01T22:04:02.695387+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "f435PXXwDQCvvhdYA3lG+g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Wardley Map"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-23T23:59:06.837305+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-24T00:00:15.747968+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "jGs7ajHyDQCYoxsFBrzlEQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "PA post merged to specs"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-24T00:00:13.134805+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-24T00:00:21.068259+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "HAkvbjHyDQCZVHP+BrzlEQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "<https://specs.anoma.net/latest/arch/integrations/adapters/evm.html>"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-23T23:58:53.10804+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-23T23:59:06.529931+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "vOxpaTHyDQCYfG9nBrzlEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Michael"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-23T23:58:47.252414+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-23T23:58:51.012424+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "g5QQaTHyDQCYZrXABrzlEQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "N/A"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-23T23:58:39.12071+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-23T23:58:47.023682+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "uHqUaDHyDQCYJrl7BrzlEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Christophe"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-23T23:57:01.768163+08:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-23T23:57:05.758777+08:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "GQPHYjHyDQCWoQegBrzlEQ=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Need to iterate upon it"
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-23T23:56:44.649114+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-23T23:56:49.362194+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "xMzBYTHyDQCWGBN2BrzlEQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Error Handling post made"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-23T23:58:00.528018+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-23T23:58:21.965727+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "HJ5HZjHyDQCXG+0KBrzlEQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "VM Design Livebook is in the works"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-23T23:56:37.423957+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-23T23:56:44.434894+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "dYxTYTHyDQCWAnVKBrzlEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Ray"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T23:56:32.361972+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-23T23:56:36.021511+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "hk8GYTHyDQCV0b7TBrzlEQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "##Status of May 23rd 2025"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-16T23:53:40.982822+08:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-16T23:53:48.613495+08:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "kqXrhaTxDQCvO1IrBO4zZw=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Tuesday 1 hour before the architecture meeting it's not scheduled"
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:52:08.128502+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:52:13.682764+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "Yc5igKTxDQCuiCbVBO4zZw=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Non done, need to schedule"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-16T23:52:01.942823+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-16T23:52:15.593647+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "YmoEgKTxDQCtz/QrBO4zZw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Further VM Discussions"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:50:39.277745+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:50:56.553152+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "LwkXe6TxDQCrzaSHBO4zZw=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Key Space Design is awaiting comment on the forums (posted)"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:51:10.558956+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:51:15.029385+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "Klz0fKTxDQCtFbs1BO4zZw=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Error handling design posted soon"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:51:21.487054+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-16T23:51:21.487054+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "khybfaTxDQCtyfL7BO4zZw=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : ""
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-16T23:50:50.820772+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-16T23:50:51.520596+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Oy7He6TxDQCsZyLrBO4zZw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Ray"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T23:50:34.002866+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T23:50:38.114543+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "R4/GeqTxDQCrtNMxBO4zZw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "##Status of May 16nd 2025"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-02T23:54:01.102334+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-02T23:54:21.837966+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "nS425YrwDQCyiDlrBAXFQQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Some repsonses to Lukasz post being written"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-02T23:52:19.744365+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-02T23:53:58.570253+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "BMxM34rwDQCycNciBAXFQQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Ray"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-02T23:51:43.360314+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-02T23:52:09.471836+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "jpsh3YrwDQCyXE84BAXFQQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "##Status of May 2nd 2025"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "mariari@protonmail.ch"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-01T22:03:58.812271+08:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-01T01:07:10.836246+08:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "ADOS V0.4 Writing"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "d413f93d-75f0-0d00-afbd-f49b037946fa"
+	}
+}

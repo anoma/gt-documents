@@ -1,0 +1,3267 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "wardleyMap",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-20T02:09:06.255405+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-20T02:09:06.255405+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WZi/w+LxDQCyglkEBO4zZw=="
+							},
+							"wardleyMapDictionary" : {
+								"edges" : [
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "9ca99edb-e2f1-0d00-ab4d-298f06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "c73707de-e2f1-0d00-ab4e-9d4d06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "6ba4d8e3-e2f1-0d00-ab51-cbdc06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "652083d8-e2f1-0d00-ab4a-4e4606bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "aa045012-e3f1-0d00-ab60-a29906bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "5b41db13-e3f1-0d00-ab61-241d06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "aa045012-e3f1-0d00-ab60-a29906bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "e0c733fa-e2f1-0d00-ab5a-f78006bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "a7eba4fb-e2f1-0d00-ab5b-1e6b06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "5b41db13-e3f1-0d00-ab61-241d06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "cec67dfe-e2f1-0d00-ab5d-4ccc06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "6ba4d8e3-e2f1-0d00-ab51-cbdc06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "cec67dfe-e2f1-0d00-ab5d-4ccc06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "652083d8-e2f1-0d00-ab4a-4e4606bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "652083d8-e2f1-0d00-ab4a-4e4606bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "caa11c19-e3f1-0d00-ab62-ee2a06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "d6c6941f-e3f1-0d00-ab65-f45006bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "2bdfaf07-e3f1-0d00-ab5e-ed4c06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "cec67dfe-e2f1-0d00-ab5d-4ccc06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "d6c6941f-e3f1-0d00-ab65-f45006bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "cec67dfe-e2f1-0d00-ab5d-4ccc06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "6ede7230-e3f1-0d00-ab6a-0ac906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "b9d26bfd-e2f1-0d00-ab5c-28a806bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "6ede7230-e3f1-0d00-ab6a-0ac906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "aa045012-e3f1-0d00-ab60-a29906bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "a7eba4fb-e2f1-0d00-ab5b-1e6b06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "44a78849-e3f1-0d00-ab71-a50406bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "652083d8-e2f1-0d00-ab4a-4e4606bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "44a78849-e3f1-0d00-ab71-a50406bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "2a64684d-e3f1-0d00-ab72-d36c06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "48f4c354-e3f1-0d00-ab74-c74f06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "48f4c354-e3f1-0d00-ab74-c74f06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "44a78849-e3f1-0d00-ab71-a50406bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "b157fc1e-e3f1-0d00-ab64-fde506bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "48f4c354-e3f1-0d00-ab74-c74f06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "b157fc1e-e3f1-0d00-ab64-fde506bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "b157fc1e-e3f1-0d00-ab64-fde506bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "2bdfaf07-e3f1-0d00-ab5e-ed4c06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "5ac3127f-e3f1-0d00-ab79-884d06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "caa11c19-e3f1-0d00-ab62-ee2a06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "5ac3127f-e3f1-0d00-ab79-884d06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "fe50be80-e3f1-0d00-ab7a-98bc06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "6501efeb-e2f1-0d00-ab55-3aa706bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "fe50be80-e3f1-0d00-ab7a-98bc06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "e0c733fa-e2f1-0d00-ab5a-f78006bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "75434983-e3f1-0d00-ab7b-679606bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "caa11c19-e3f1-0d00-ab62-ee2a06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "75434983-e3f1-0d00-ab7b-679606bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "c04afd07-e3f1-0d00-ab5f-413b06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "75434983-e3f1-0d00-ab7b-679606bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "d4ae5f34-e3f1-0d00-ab6b-2c2f06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "e6bc5d96-e3f1-0d00-ab7c-e7b306bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "b157fc1e-e3f1-0d00-ab64-fde506bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "1b0c3098-e3f1-0d00-ab7d-c34f06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "d6c6941f-e3f1-0d00-ab65-f45006bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "3ca81aa3-e3f1-0d00-ab7f-9b7d06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "d6c6941f-e3f1-0d00-ab65-f45006bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "3ca81aa3-e3f1-0d00-ab7f-9b7d06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "aa045012-e3f1-0d00-ab60-a29906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "3ca81aa3-e3f1-0d00-ab7f-9b7d06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "25c240a5-e3f1-0d00-ab80-6b7a06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "25c240a5-e3f1-0d00-ab80-6b7a06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "1b0c3098-e3f1-0d00-ab7d-c34f06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "a0720989-eff1-0d00-aba6-eaa606bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "9ca99edb-e2f1-0d00-ab4d-298f06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "a0720989-eff1-0d00-aba6-eaa606bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "2a64684d-e3f1-0d00-ab72-d36c06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "9f583893-eff1-0d00-abb2-336a06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "6ec9c937-f0f1-0d00-aeb7-0a1306bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "eba41435-f0f1-0d00-aeb4-0a2506bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "eba41435-f0f1-0d00-aeb4-0a2506bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "eba41435-f0f1-0d00-aeb4-0a2506bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "d6c6941f-e3f1-0d00-ab65-f45006bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "2a64684d-e3f1-0d00-ab72-d36c06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "eba41435-f0f1-0d00-aeb4-0a2506bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "a7eba4fb-e2f1-0d00-ab5b-1e6b06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "2bdfaf07-e3f1-0d00-ab5e-ed4c06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "2b6d92fd-f0f1-0d00-aecd-08ac06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "191901fd-f0f1-0d00-aecc-4eb706bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "191901fd-f0f1-0d00-aecc-4eb706bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "5b41db13-e3f1-0d00-ab61-241d06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "2b6d92fd-f0f1-0d00-aecd-08ac06bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "a7eba4fb-e2f1-0d00-ab5b-1e6b06bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "0ef1b672-f1f1-0d00-af6e-8e3106bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "d6c6941f-e3f1-0d00-ab65-f45006bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "0ef1b672-f1f1-0d00-af6e-8e3106bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "652083d8-e2f1-0d00-ab4a-4e4606bce511"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "b157fc1e-e3f1-0d00-ab64-fde506bce511"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "0ef1b672-f1f1-0d00-af6e-8e3106bce511"
+										},
+										"width" : 1.0
+									}
+								],
+								"nodes" : [
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "652083d8-e2f1-0d00-ab4a-4e4606bce511"
+										},
+										"label" : {
+											"text" : "Applications",
+											"x" : 0.5,
+											"y" : -1.0
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "70036fda-e2f1-0d00-ab4c-0c8d06bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "87476de5-e2f1-0d00-ab52-f27b06bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.051790156074367544,
+											"y" : 0.2682848373217756
+										},
+										"width" : 12,
+										"x" : 0.1442417551828065,
+										"y" : 0.37626162104388955
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "70036fda-e2f1-0d00-ab4c-0c8d06bce511"
+										},
+										"label" : {
+											"text" : "Kudos MM",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.2582848373217756,
+										"y" : 0.37626162104388955
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "9ca99edb-e2f1-0d00-ab4d-298f06bce511"
+										},
+										"label" : {
+											"text" : "Meta Mask",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.644949079007156,
+										"y" : 0.841838631421295
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "c73707de-e2f1-0d00-ab4e-9d4d06bce511"
+										},
+										"label" : {
+											"text" : "Meta Mask Integration",
+											"x" : 1.8333333333333333,
+											"y" : -1.25
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.3608578409032457,
+										"y" : 0.7070026972535554
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "6ba4d8e3-e2f1-0d00-ab51-cbdc06bce511"
+										},
+										"label" : {
+											"text" : "Solver",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.43061978774017795,
+										"y" : 0.6659986137163028
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "87476de5-e2f1-0d00-ab52-f27b06bce511"
+										},
+										"label" : {
+											"text" : "IRC",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.061790156074367546,
+										"y" : 0.37626162104388955
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "22ddbeea-e2f1-0d00-ab53-97bc06bce511"
+										},
+										"label" : {
+											"text" : "Twitter",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.9407288056278957,
+										"y" : 0.8856975727225738
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "6501efeb-e2f1-0d00-ab55-3aa706bce511"
+										},
+										"label" : {
+											"text" : "Ethereum",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.8604596984354111,
+										"y" : 0.8962191988467694
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "e0c733fa-e2f1-0d00-ab5a-f78006bce511"
+										},
+										"label" : {
+											"text" : "Eth Deposit",
+											"x" : 4.416666666666667,
+											"y" : 0.75
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.7329903890540231,
+										"y" : 0.6393569700557378
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "a7eba4fb-e2f1-0d00-ab5b-1e6b06bce511"
+										},
+										"label" : {
+											"text" : "Invite System",
+											"x" : 2.0,
+											"y" : -1.4166666666666667
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.8575022051078648,
+										"y" : 0.6151933113359342
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 1.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "b9d26bfd-e2f1-0d00-ab5c-28a806bce511"
+										},
+										"label" : {
+											"text" : "Intent Explorer",
+											"x" : 2.25,
+											"y" : -1.3333333333333333
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5125262583551563,
+										"y" : 0.1422485848064635
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.5004887585532747,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "cec67dfe-e2f1-0d00-ab5d-4ccc06bce511"
+										},
+										"label" : {
+											"text" : "Anoma Controller",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.4843484488306376,
+										"y" : 0.90137599321863
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "2bdfaf07-e3f1-0d00-ab5e-ed4c06bce511"
+										},
+										"label" : {
+											"text" : "Point System",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.6438721704390202,
+										"y" : 0.7529986270234209
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "c04afd07-e3f1-0d00-ab5f-413b06bce511"
+										},
+										"label" : {
+											"text" : "Server",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.9792113704360702,
+										"y" : 0.7903590051023458
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "aa045012-e3f1-0d00-ab60-a29906bce511"
+										},
+										"label" : {
+											"text" : "Authentication System",
+											"x" : 2.1666666666666665,
+											"y" : -1.25
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.76568000395319,
+										"y" : 0.5200299310154439
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "5b41db13-e3f1-0d00-ab61-241d06bce511"
+										},
+										"label" : {
+											"text" : "Acces Code",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.8027324982246943,
+										"y" : 0.6785324669471153
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "caa11c19-e3f1-0d00-ab62-ee2a06bce511"
+										},
+										"label" : {
+											"text" : "Testnet",
+											"x" : 0.4166666666666667,
+											"y" : -0.6666666666666666
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5955245872867869,
+										"y" : 0.04901934411780797
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "fb57311a-e3f1-0d00-ab63-2be906bce511"
+										},
+										"label" : {
+											"text" : "Frontend",
+											"x" : 0.9166666666666755,
+											"y" : -0.8333333333333334
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "b9d26bfd-e2f1-0d00-ab5c-28a806bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "e6bc5d96-e3f1-0d00-ab7c-e7b306bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.43426348233944,
+											"y" : 0.5225262583551563
+										},
+										"width" : 12,
+										"x" : 0.47622098876607755,
+										"y" : 0.1422485848064635
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "b157fc1e-e3f1-0d00-ab64-fde506bce511"
+										},
+										"label" : {
+											"text" : "Points",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.332178804029209,
+										"y" : 0.6128697311591323
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "d6c6941f-e3f1-0d00-ab65-f45006bce511"
+										},
+										"label" : {
+											"text" : "Backend",
+											"x" : 1.25,
+											"y" : -0.9166666666666666
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.657857521713382,
+										"y" : 0.47819256876756244
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.5004887585532747,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "6ede7230-e3f1-0d00-ab6a-0ac906bce511"
+										},
+										"label" : {
+											"text" : "Intent Pool",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5777376904629653,
+										"y" : 0.6153469187926252
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "d4ae5f34-e3f1-0d00-ab6b-2c2f06bce511"
+										},
+										"label" : {
+											"text" : "Domain",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.94695598423725,
+										"y" : 0.785645419269035
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "77059638-e3f1-0d00-ab6c-012306bce511"
+										},
+										"label" : {
+											"text" : "C64",
+											"x" : -1.9166666666666667,
+											"y" : 0.5
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.4241259990664287,
+										"y" : 0.3717504991304893
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "38660839-e3f1-0d00-ab6d-a56306bce511"
+										},
+										"label" : {
+											"text" : "W95",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.43979622782352323,
+										"y" : 0.3717504991304893
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "a9eb8839-e3f1-0d00-ab6e-3fb406bce511"
+										},
+										"label" : {
+											"text" : "WXP",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.46017656161226583,
+										"y" : 0.3717504991304893
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "9b0aed39-e3f1-0d00-ab6f-7c1106bce511"
+										},
+										"label" : {
+											"text" : "Linux",
+											"x" : 0.8333333333333334,
+											"y" : 2.0833333333333335
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.48557236899712247,
+										"y" : 0.3717504991304893
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "222e793a-e3f1-0d00-ab70-421906bce511"
+										},
+										"label" : {
+											"text" : "AOS",
+											"x" : 3.5833333333333335,
+											"y" : 0.3333333333333333
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5088364094793631,
+										"y" : 0.3717504991304893
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "44a78849-e3f1-0d00-ab71-a50406bce511"
+										},
+										"label" : {
+											"text" : "Sign Messages",
+											"x" : 0.6666666666666666,
+											"y" : 1.75
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.22174476824218817,
+										"y" : 0.612618276855911
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "2a64684d-e3f1-0d00-ab72-d36c06bce511"
+										},
+										"label" : {
+											"text" : "Integration",
+											"x" : 2.25,
+											"y" : -1.25
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "c73707de-e2f1-0d00-ab4e-9d4d06bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "9238534f-e3f1-0d00-ab73-665e06bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.1515320500425017,
+											"y" : 0.3708578409032457
+										},
+										"width" : 12,
+										"x" : 0.26527839793106767,
+										"y" : 0.7070026972535554
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "9238534f-e3f1-0d00-ab73-665e06bce511"
+										},
+										"label" : {
+											"text" : "Privy",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.1615320500425017,
+										"y" : 0.7070026972535554
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "48f4c354-e3f1-0d00-ab74-c74f06bce511"
+										},
+										"label" : {
+											"text" : "Games",
+											"x" : 1.0,
+											"y" : -1.0
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "16d23856-e3f1-0d00-ab75-202806bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "8db16557-e3f1-0d00-ab76-51bb06bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "fff79a5f-e3f1-0d00-ab77-ecd306bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "77c7e16a-e3f1-0d00-ab78-414e06bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.18934799301414112,
+											"y" : 0.32767250949082594
+										},
+										"width" : 12,
+										"x" : 0.24679666754055052,
+										"y" : 0.21465766605370085
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "16d23856-e3f1-0d00-ab75-202806bce511"
+										},
+										"label" : {
+											"text" : "Pong",
+											"x" : 0.5833333333333334,
+											"y" : -1.3333333333333333
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.19934799301414113,
+										"y" : 0.21465766605370085
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "8db16557-e3f1-0d00-ab76-51bb06bce511"
+										},
+										"label" : {
+											"text" : "MineSweeper",
+											"x" : 1.4166666666666667,
+											"y" : 2.1666666666666665
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.26295242372178207,
+										"y" : 0.21465766605370085
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "fff79a5f-e3f1-0d00-ab77-ecd306bce511"
+										},
+										"label" : {
+											"text" : "Paper clip",
+											"x" : 1.4166666666666667,
+											"y" : -1.1666666666666667
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.3176725094908259,
+										"y" : 0.21465766605370085
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "77c7e16a-e3f1-0d00-ab78-414e06bce511"
+										},
+										"label" : {
+											"text" : "Paint",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.22117392049587337,
+										"y" : 0.21465766605370085
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "5ac3127f-e3f1-0d00-ab79-884d06bce511"
+										},
+										"label" : {
+											"text" : "Story",
+											"x" : 0.9166666666666666,
+											"y" : 1.75
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.6350647740413365,
+										"y" : 0.31003924160009694
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "fe50be80-e3f1-0d00-ab7a-98bc06bce511"
+										},
+										"label" : {
+											"text" : "ETH Contract",
+											"x" : 1.1666666666666667,
+											"y" : 1.9166666666666667
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.7614971667705012,
+										"y" : 0.7988251713882447
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "75434983-e3f1-0d00-ab7b-679606bce511"
+										},
+										"label" : {
+											"text" : "Host",
+											"x" : 0.8333333333333334,
+											"y" : -1.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.9384751394505924,
+										"y" : 0.6454493925208249
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "e6bc5d96-e3f1-0d00-ab7c-e7b306bce511"
+										},
+										"label" : {
+											"text" : "Leaderboards",
+											"x" : -0.9166666666666666,
+											"y" : -1.4166666666666667
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.44426348233944,
+										"y" : 0.1422485848064635
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "1b0c3098-e3f1-0d00-ab7d-c34f06bce511"
+										},
+										"label" : {
+											"text" : "Database",
+											"x" : 0.3333333333333333,
+											"y" : -0.5
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "601b0399-e3f1-0d00-ab7e-79c106bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.7117912392380152,
+											"y" : 0.7380109135484173
+										},
+										"width" : 12,
+										"x" : 0.7217912392380152,
+										"y" : 0.8540863243246862
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "601b0399-e3f1-0d00-ab7e-79c106bce511"
+										},
+										"label" : {
+											"text" : "Mnesia",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.7280109135484173,
+										"y" : 0.8540863243246862
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "3ca81aa3-e3f1-0d00-ab7f-9b7d06bce511"
+										},
+										"label" : {
+											"text" : "Account System",
+											"x" : 0.9166666666666666,
+											"y" : -1.25
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.712690825635074,
+										"y" : 0.5033924247907198
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "25c240a5-e3f1-0d00-ab80-6b7a06bce511"
+										},
+										"label" : {
+											"text" : "PubKey Registration",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.7224102432286473,
+										"y" : 0.5519290309248597
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "744d3788-eff1-0d00-aba5-7e9a06bce511"
+										},
+										"label" : {
+											"text" : "EIP 712",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.4041471776078008,
+										"y" : 0.8420991621961402
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "a0720989-eff1-0d00-aba6-eaa606bce511"
+										},
+										"label" : {
+											"text" : "Eth Signature Schema",
+											"x" : 1.3333333333333333,
+											"y" : -1.1666666666666667
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "744d3788-eff1-0d00-aba5-7e9a06bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "2831d689-eff1-0d00-aba7-642206bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.293948424907569,
+											"y" : 0.4141471776078008
+										},
+										"width" : 12,
+										"x" : 0.345319834766533,
+										"y" : 0.8420991621961402
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "2831d689-eff1-0d00-aba7-642206bce511"
+										},
+										"label" : {
+											"text" : "Personal Signing",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.303948424907569,
+										"y" : 0.8420991621961402
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "9f583893-eff1-0d00-abb2-336a06bce511"
+										},
+										"label" : {
+											"text" : "Eras",
+											"x" : 2.0,
+											"y" : -0.5833333333333334
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "222e793a-e3f1-0d00-ab70-421906bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "38660839-e3f1-0d00-ab6d-a56306bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "77059638-e3f1-0d00-ab6c-012306bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "a9eb8839-e3f1-0d00-ab6e-3fb406bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "9b0aed39-e3f1-0d00-ab6f-7c1106bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.4141259990664287,
+											"y" : 0.5188364094793632
+										},
+										"width" : 12,
+										"x" : 0.4621471279520813,
+										"y" : 0.3717504991304893
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.0,
+											"red" : 0.5004887585532747
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "eba41435-f0f1-0d00-aeb4-0a2506bce511"
+										},
+										"label" : {
+											"text" : "JSON API Client",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.586173567513605,
+										"y" : 0.3847865640238111
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "6ec9c937-f0f1-0d00-aeb7-0a1306bce511"
+										},
+										"label" : {
+											"text" : "Nock Integration",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.5205868451968338,
+										"y" : 0.6533785565635394
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "8d1bdffa-f0f1-0d00-aecb-172c06bce511"
+										},
+										"label" : {
+											"text" : "Discord",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.9031510611394982,
+										"y" : 0.8856975727225738
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "191901fd-f0f1-0d00-aecc-4eb706bce511"
+										},
+										"label" : {
+											"text" : "Confirmation",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.8406030281551179,
+										"y" : 0.784277334019405
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "2b6d92fd-f0f1-0d00-aecd-08ac06bce511"
+										},
+										"label" : {
+											"text" : "Socials",
+											"x" : 2.0,
+											"y" : -1.1666666666666667
+										},
+										"pipeline" : {
+											"inner_nodes" : [
+												{
+													"__type" : "uuid",
+													"uuid" : "8d1bdffa-f0f1-0d00-aecb-172c06bce511"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "22ddbeea-e2f1-0d00-ab53-97bc06bce511"
+												}
+											],
+											"is_visible" : true,
+											"x" : 0.8931510611394982,
+											"y" : 0.9507288056278957
+										},
+										"width" : 12,
+										"x" : 0.9183401131241691,
+										"y" : 0.8856975727225738
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 1.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "0ef1b672-f1f1-0d00-af6e-8e3106bce511"
+										},
+										"label" : {
+											"text" : "Indexer",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.49151822388154637,
+										"y" : 0.6066678862045327
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 1.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "cd71bb87-f1f1-0d00-af6f-43dd06bce511"
+										},
+										"label" : {
+											"text" : "On Boarding Flow",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.043241747935413896,
+										"y" : 0.02658273439685287
+									}
+								],
+								"notes" : [
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.30009775171065495,
+											"red" : 0.5004887585532747
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "445ecad9-e2f1-0d00-ab4b-e59606bce511"
+										},
+										"label" : "Applications",
+										"x" : 0.9726573255209965,
+										"y" : 0.04152910297450591
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.9198435972629521
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "17eeb5e2-e2f1-0d00-ab4f-625a06bce511"
+										},
+										"label" : "Backend",
+										"x" : 0.9719710750934958,
+										"y" : 0.07133075179953721
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.9198435972629521,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "592001e3-e2f1-0d00-ab50-1d7406bce511"
+										},
+										"label" : "Frontend",
+										"x" : 0.9729657477036286,
+										"y" : 0.09645135797223134
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.624633431085044,
+											"green" : 0.624633431085044,
+											"red" : 0.624633431085044
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "d16054f4-e2f1-0d00-ab57-7e8a06bce511"
+										},
+										"label" : "Done",
+										"x" : 0.9737531795373495,
+										"y" : 0.11981914862436518
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.5004887585532747,
+											"red" : 0.0
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "c0780621-e3f1-0d00-ab67-9ca606bce511"
+										},
+										"label" : "Anoma/Anoma",
+										"x" : 0.9704623693675627,
+										"y" : 0.017673253509678334
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.5004887585532747,
+											"green" : 0.0,
+											"red" : 0.5004887585532747
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "1b7772ab-7ef2-0d00-9be9-85b606bce511"
+										},
+										"label" : "Back+Frontend",
+										"x" : 0.9703847305023455,
+										"y" : 0.14144373078117084
+									}
+								]
+							},
+							"snippetHeight" : 610
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-20T19:28:58.212718+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-20T19:29:02.079325+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "+E6ZSvHxDQCu++ZoBrzlEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "###Action Items"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-20T19:28:54.701523+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-25T15:02:00.771421+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "b7tjSvHxDQCuz+gsBrzlEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "###Notes"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T20:01:17.927665+08:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T20:01:31.225109+08:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "WQI3vvHxDQCvhjNqBrzlEQ=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Justin thinks he'll have some availability after integration"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T20:03:31.203179+08:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T20:03:43.100231+08:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "QqEoxvHxDQCw9iKkBrzlEQ=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Christophe is more fine with it, if the scope is clearer and the work is delinanted and organized"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T20:06:10.52671+08:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T20:06:36.211278+08:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "5Lanz/HxDQC0UhxRBrzlEQ=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Pedro is fine learning Elixir, Justin is fine more editing than writing from scratch"
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-20T17:27:38.490301+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-20T17:28:56.598085+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "MJCxmO/xDQCsEz7oBrzlEQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Who Does Backend Work?"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T17:33:46.091958+08:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "mariari@protonmail.ch"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-05-20T17:33:55.451067+08:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "M7earu/xDQCtaBDPBrzlEQ=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "How do we verify the points of the game."
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-20T17:29:01.738199+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "mariari@protonmail.ch"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-05-20T17:29:10.401353+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "h23/mO/xDQCsW+xdBrzlEQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "How does Game Integration Work"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-20T17:27:34.981436+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "mariari@protonmail.ch"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-20T17:27:38.225159+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "6AR8mO/xDQCrucmQBrzlEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "###Open Questions"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "mariari@protonmail.ch"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-20T02:08:56.939633+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-01T01:06:05.087629+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "jHQxw+LxDQCycY42BO4zZw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "\r### Wardley Maps"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "mariari@protonmail.ch"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-20T02:08:56.892235+08:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-01T01:05:59.107749+08:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Anoma Testnet: V1"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "84ba30c3-e2f1-0d00-b270-486f04ee3367"
+	}
+}
