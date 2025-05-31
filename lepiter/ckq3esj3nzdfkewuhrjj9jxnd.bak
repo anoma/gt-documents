@@ -10,6 +10,81 @@
 					"__type" : "snippets",
 					"items" : [
 						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-01T00:36:44.060909+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-01T00:37:14.377399+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "++qA39LyDQCM480bChaMEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Welcome to the management reading group, this group deals with trying to teach various management lessons through reading classic literature on the subject and relating it to busin"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-01T00:36:37.561534+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-01T00:36:43.86481+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Y7kd39LyDQCMWbggChaMEQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Introduction"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
 							"__type" : "pharoSnippet",
 							"children" : {
 								"__type" : "snippets",
@@ -1032,8 +1107,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.95,
-							"y" : 0.56
+							"x" : 0.9368585732165206,
+							"y" : 0.5625273799494525
 						},
 						{
 							"color" : {
@@ -1052,8 +1127,8 @@
 							},
 							"label" : {
 								"text" : "Effective Knowledge Workers",
-								"x" : 1.6666666666666667,
-								"y" : 3.3333333333333335
+								"x" : 1.75,
+								"y" : 2.5
 							},
 							"pipeline" : {
 								"is_visible" : false
@@ -1167,8 +1242,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6,
-							"y" : 0.07999999999999996
+							"x" : 0.5486641393627584,
+							"y" : 0.06688481363886671
 						},
 						{
 							"color" : {
@@ -1473,7 +1548,7 @@
 						"text" : "Management Reading Group"
 					}
 				},
-				"snippetHeight" : 1215
+				"snippetHeight" : 415
 			}
 		]
 	},
