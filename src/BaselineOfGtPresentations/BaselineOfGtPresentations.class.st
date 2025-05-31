@@ -8,7 +8,7 @@ Class {
 BaselineOfGtPresentations class >> loadLepiter [
 	IceRepository registry  
 		detect: [ :aRepository |
-			aRepository name = 'gt-presentations' ]
+			aRepository name = 'gt-documents' ]
 		ifFound: [ :aRepository | 
 			| defaultDatabase currentProperties |
 			defaultDatabase := LeDatabasesRegistry defaultLogicalDatabase.
