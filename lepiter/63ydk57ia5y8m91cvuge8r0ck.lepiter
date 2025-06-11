@@ -3220,7 +3220,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-01T01:07:49.78717+08:00"
+						"dateAndTimeString" : "2025-06-10T13:43:52.99315+08:00"
 					}
 				},
 				"uid" : {
@@ -3230,7 +3230,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "### Wardley Maps"
+				"string" : "### Wardley Map"
 			}
 		]
 	},
@@ -3253,12 +3253,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-06-01T01:07:45.299747+08:00"
+			"dateAndTimeString" : "2025-06-10T13:44:52.549621+08:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Anoma Testnet V1: May 2025"
+		"title" : "Anoma Testnet V1: Q2 2025"
 	},
 	"uid" : {
 		"__type" : "uuid",

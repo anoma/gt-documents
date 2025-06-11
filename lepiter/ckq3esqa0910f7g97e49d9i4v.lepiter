@@ -13,7 +13,45 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-06-01T01:01:30.499694+08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-06-10T13:44:52.556411+08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "ydLsN9PyDQCVSAbIA8z6FQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[Anoma Testnet V1: Q2 2025]]"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -23,7 +61,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-01T01:01:30.499694+08:00"
+									"dateAndTimeString" : "2025-06-10T13:43:54.749492+08:00"
 								}
 							},
 							"editEmail" : {
@@ -34,17 +72,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-01T01:07:45.3181+08:00"
+									"dateAndTimeString" : "2025-06-10T13:44:42.859271+08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "ydLsN9PyDQCVSAbIA8z6FQ=="
+								"uidString" : "m2U+65LzDQCGCWXbAPwgyA=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Anoma Testnet V1: May 2025]]"
+							"string" : "[[Anoma Testnet V1: Q3 2025]]"
 						},
 						{
 							"__type" : "textSnippet",
