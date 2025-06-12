@@ -15637,13 +15637,13 @@
 				},
 				"editEmail" : {
 					"__type" : "email",
-					"emailString" : "mariari@protonmail.ch"
+					"emailString" : "<unknown>"
 				},
 				"editTime" : {
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-12-06T23:21:35.952881+08:00"
+						"dateAndTimeString" : "2025-06-13T01:14:51.669766+08:00"
 					}
 				},
 				"uid" : {
@@ -15653,7 +15653,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "### Wardley Maps"
+				"string" : "k### Wardley Maps"
 			}
 		]
 	},
@@ -15676,12 +15676,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-06-01T01:06:50.405469+08:00"
+			"dateAndTimeString" : "2025-06-01T01:07:24.973975+08:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "ADOS V0.2: Feburary 2025"
+		"title" : "ADOS V0.2: Feburary 2025 - May 2025"
 	},
 	"uid" : {
 		"__type" : "uuid",
