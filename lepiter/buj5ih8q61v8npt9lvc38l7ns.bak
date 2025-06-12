@@ -2894,33 +2894,6 @@
 							"width" : 12,
 							"x" : 0.3417981465657552,
 							"y" : 0.672152388319474
-						},
-						{
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.0
-							},
-							"evolve" : {
-								"is_visible" : false
-							},
-							"height" : 12,
-							"id" : {
-								"__type" : "uuid",
-								"uuid" : "ead76df9-bef3-0d00-8c85-b58000fc20c8"
-							},
-							"label" : {
-								"text" : "soo",
-								"x" : 0.5,
-								"y" : 2.0
-							},
-							"pipeline" : {
-								"is_visible" : false
-							},
-							"width" : 12,
-							"x" : 0.30172020241066255,
-							"y" : 0.5551938133094702
 						}
 					],
 					"notes" : [
