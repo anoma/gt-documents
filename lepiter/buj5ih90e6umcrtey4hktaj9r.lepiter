@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-01T00:58:31.067427+08:00"
+						"dateAndTimeString" : "2025-06-13T01:21:40.841353+08:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-13T01:19:28.621052+08:00"
+						"dateAndTimeString" : "2025-06-13T01:21:55.72993+08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "e0NoLdPyDQCTz+uxA8z6FQ=="
+					"uidString" : "pAdX5sTzDQCg9Pw+APwgyA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "\rThis section contains various Wardley Maps"
+				"string" : "These campaigns have yet to come yet we know they may be starting."
 			}
 		]
 	},
@@ -51,7 +51,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-06-01T00:58:31.005763+08:00"
+			"dateAndTimeString" : "2025-06-13T01:21:40.814226+08:00"
 		}
 	},
 	"editEmail" : {
@@ -62,15 +62,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-06-01T00:58:31.005763+08:00"
+			"dateAndTimeString" : "2025-06-13T01:21:40.814226+08:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Anoma Wardley Maps"
+		"title" : "Future Campaigns"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "0751672d-d3f2-0d00-93ce-83d003ccfa15"
+		"uuid" : "0f9d56e6-c4f3-0d00-a0f3-41dc00fc20c8"
 	}
 }
