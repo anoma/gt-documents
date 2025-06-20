@@ -1,0 +1,562 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "wardleyMap",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-17T21:37:30.994237+04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-17T21:37:30.994237+04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aRYutCn0DQCMA3iJB9M4ZA=="
+				},
+				"wardleyMapDictionary" : {
+					"edges" : [
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "84548fba-29f4-0d00-8c04-9be607d33864"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "d66de0be-29f4-0d00-8c08-665907d33864"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "d66de0be-29f4-0d00-8c08-665907d33864"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "919556bc-29f4-0d00-8c06-237a07d33864"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "919556bc-29f4-0d00-8c06-237a07d33864"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "925233bd-29f4-0d00-8c07-3e9007d33864"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "925233bd-29f4-0d00-8c07-3e9007d33864"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "d66de0be-29f4-0d00-8c08-665907d33864"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "93e208c5-29f4-0d00-8c0a-a8a607d33864"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "aceeecc5-29f4-0d00-8c0b-43eb07d33864"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "93e208c5-29f4-0d00-8c0a-a8a607d33864"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "d66de0be-29f4-0d00-8c08-665907d33864"
+							},
+							"width" : 1.0
+						}
+					],
+					"nodes" : [
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "84548fba-29f4-0d00-8c04-9be607d33864"
+							},
+							"label" : {
+								"text" : "UX",
+								"x" : 2.25,
+								"y" : 0.9166666666666666
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.5615957595973489,
+							"y" : 0.027281981585922533
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "919556bc-29f4-0d00-8c06-237a07d33864"
+							},
+							"label" : {
+								"text" : "Controler",
+								"x" : -3.5833333333333335,
+								"y" : -0.5
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "aceeecc5-29f4-0d00-8c0b-43eb07d33864"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.4322049803913,
+								"y" : 0.5256867953080544
+							},
+							"width" : 12,
+							"x" : 0.5251313843839931,
+							"y" : 0.7423416379574117
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "925233bd-29f4-0d00-8c07-3e9007d33864"
+							},
+							"label" : {
+								"text" : "Ethereum",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.9075400686274305,
+							"y" : 0.7739305467022408
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "d66de0be-29f4-0d00-8c08-665907d33864"
+							},
+							"label" : {
+								"text" : "Local Domain",
+								"x" : -4.083333333333333,
+								"y" : -0.25
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "26095d41-37f4-0d00-9793-4ea20d77ceed"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.35926022489144505,
+								"y" : 0.47654805298131636
+							},
+							"width" : 12,
+							"x" : 0.46654805298131635,
+							"y" : 0.2854667028646952
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "93e208c5-29f4-0d00-8c0a-a8a607d33864"
+							},
+							"label" : {
+								"text" : "Solver",
+								"x" : 0.25,
+								"y" : -1.75
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "aa63c1c8-29f4-0d00-8c0f-591c07d33864"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "2b3c2bd0-29f4-0d00-8c10-67b307d33864"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "ad3281c7-29f4-0d00-8c0e-436f07d33864"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.11860303001550031,
+								"y" : 0.6209082528562263
+							},
+							"width" : 12,
+							"x" : 0.32572997879055593,
+							"y" : 0.5179033783995408
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "aceeecc5-29f4-0d00-8c0b-43eb07d33864"
+							},
+							"label" : {
+								"text" : "Intent Pool",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.4422049803913,
+							"y" : 0.7423416379574117
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "ad3281c7-29f4-0d00-8c0e-436f07d33864"
+							},
+							"label" : {
+								"text" : "RM Minter",
+								"x" : 0.5,
+								"y" : -1.5833333333333333
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.1286030300155003,
+							"y" : 0.5179033783995408
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "aa63c1c8-29f4-0d00-8c0f-591c07d33864"
+							},
+							"label" : {
+								"text" : "Intent Indexer",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.3258636321063763,
+							"y" : 0.5179033783995408
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "2b3c2bd0-29f4-0d00-8c10-67b307d33864"
+							},
+							"label" : {
+								"text" : "Speedex",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.6109082528562263,
+							"y" : 0.5179033783995408
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "26095d41-37f4-0d00-9793-4ea20d77ceed"
+							},
+							"label" : {
+								"text" : "Risc0 TRM",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.36926022489144505,
+							"y" : 0.2854667028646952
+						}
+					]
+				},
+				"snippetHeight" : 509
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-17T21:36:56.503862+04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-17T21:36:56.503862+04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UM4fsin0DQCMAjGhB9M4ZA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-17T21:37:21.441499+04:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-20T20:03:23.560217+04:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "DEX Wardley Map"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "1a741fb2-29f4-0d00-8c01-151d07d33864"
+	}
+}

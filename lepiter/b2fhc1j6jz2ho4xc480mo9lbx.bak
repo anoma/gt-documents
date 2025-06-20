@@ -1,0 +1,1006 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-16T20:34:04.110699+04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-16T20:34:45.262161+04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "i0dusxT0DQC6OCRFC4Lxug=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Anoma Plasma Wardley Map"
+			},
+			{
+				"__type" : "wardleyMap",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-16T20:34:51.981524+04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-16T20:34:51.981524+04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ta9IthT0DQC66SdtC4Lxug=="
+				},
+				"wardleyMapDictionary" : {
+					"edges" : [
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "e92ea8c8-24f4-0d00-9830-b6d40a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "0beaa7c7-24f4-0d00-982f-e8950a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "849cc5d2-24f4-0d00-9834-17320a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "a0561dc5-24f4-0d00-982d-86070a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "09e146d3-24f4-0d00-9835-0f4e0a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "0beaa7c7-24f4-0d00-982f-e8950a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "e2ceeec6-24f4-0d00-982e-42590a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "0beaa7c7-24f4-0d00-982f-e8950a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "0beaa7c7-24f4-0d00-982f-e8950a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "5c25e0cd-24f4-0d00-9832-dda50a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "5c25e0cd-24f4-0d00-9832-dda50a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "09e146d3-24f4-0d00-9835-0f4e0a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "e2ceeec6-24f4-0d00-982e-42590a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "09e146d3-24f4-0d00-9835-0f4e0a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "e2ceeec6-24f4-0d00-982e-42590a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "849cc5d2-24f4-0d00-9834-17320a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "e2ceeec6-24f4-0d00-982e-42590a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "a0561dc5-24f4-0d00-982d-86070a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "c1c4e525-61f4-0d00-9dd1-841204d9c885"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "5c25e0cd-24f4-0d00-9832-dda50a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "c1c4e525-61f4-0d00-9dd1-841204d9c885"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "e92ea8c8-24f4-0d00-9830-b6d40a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "0beaa7c7-24f4-0d00-982f-e8950a3e675f"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "e2b495cc-24f4-0d00-9831-494b0a3e675f"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "6b9b319a-62f4-0d00-9dd5-623d04d9c885"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "f3708e1b-61f4-0d00-9dcf-c94d04d9c885"
+							},
+							"width" : 1.0
+						}
+					],
+					"nodes" : [
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 1.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "a0561dc5-24f4-0d00-982d-86070a3e675f"
+							},
+							"label" : {
+								"text" : "Ethereum",
+								"x" : 4.583333333333333,
+								"y" : 0.4166666666666667
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "e2b495cc-24f4-0d00-9831-494b0a3e675f"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "5c25e0cd-24f4-0d00-9832-dda50a3e675f"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.2165749612626818,
+								"y" : 0.8844511023074513
+							},
+							"width" : 12,
+							"x" : 0.8744511023074513,
+							"y" : 0.4602259350865547
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "e2ceeec6-24f4-0d00-982e-42590a3e675f"
+							},
+							"label" : {
+								"text" : "Local Domain",
+								"x" : 0.4166666666666667,
+								"y" : -0.8333333333333334
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "adb2ac00-25f4-0d00-9847-9ca90a3e675f"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "b4c66321-61f4-0d00-9dd0-1ee104d9c885"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.33822181072957264,
+								"y" : 0.454488899213965
+							},
+							"width" : 12,
+							"x" : 0.444488899213965,
+							"y" : 0.09601612355312107
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "0beaa7c7-24f4-0d00-982f-e8950a3e675f"
+							},
+							"label" : {
+								"text" : "Controller",
+								"x" : -2.25,
+								"y" : -1.416666666666681
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "f3708e1b-61f4-0d00-9dcf-c94d04d9c885"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "c50db829-61f4-0d00-9dd2-d5be04d9c885"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "6b9b319a-62f4-0d00-9dd5-623d04d9c885"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.39567726865908615,
+								"y" : 0.5104198715787688
+							},
+							"width" : 12,
+							"x" : 0.4717280806305679,
+							"y" : 0.5780128251818629
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "e92ea8c8-24f4-0d00-9830-b6d40a3e675f"
+							},
+							"label" : {
+								"text" : "Plasma  RM",
+								"x" : -3.0833333333333335,
+								"y" : -1.3333333333333333
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "8113b3e8-24f4-0d00-983a-f38d0a3e675f"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "fb3f5547-26f4-0d00-8397-61ff02ad3860"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "10f14c2b-61f4-0d00-9dd3-b7e804d9c885"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "9cd7cc2d-61f4-0d00-9dd4-04a604d9c885"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.17070268524781632,
+								"y" : 0.9133027767869571
+							},
+							"width" : 12,
+							"x" : 0.18070268524781632,
+							"y" : 0.8334055121088574
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.9198435972629521,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "e2b495cc-24f4-0d00-9831-494b0a3e675f"
+							},
+							"label" : {
+								"text" : "Wrapping Mechanism ",
+								"x" : 5.75,
+								"y" : -2.25
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.5451944597257714,
+							"y" : 0.4602259350865547
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.9198435972629521,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "5c25e0cd-24f4-0d00-9832-dda50a3e675f"
+							},
+							"label" : {
+								"text" : "State Update Contract",
+								"x" : -2.0833333333333335,
+								"y" : -1.5
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.2265749612626818,
+							"y" : 0.4602259350865547
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 1.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "849cc5d2-24f4-0d00-9834-17320a3e675f"
+							},
+							"label" : {
+								"text" : "ETH Indexer",
+								"x" : 2.9166666666666665,
+								"y" : -1.6666666666666667
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.9366661020801433,
+							"y" : 0.3054182787584826
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "09e146d3-24f4-0d00-9835-0f4e0a3e675f"
+							},
+							"label" : {
+								"text" : "3rd Party Storage",
+								"x" : 4.75,
+								"y" : 1.8333333333333333
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.7876699400903918,
+							"y" : 0.307258706629504
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "8113b3e8-24f4-0d00-983a-f38d0a3e675f"
+							},
+							"label" : {
+								"text" : "NF Tree",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.5272469127629541,
+							"y" : 0.8334055121088574
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "adb2ac00-25f4-0d00-9847-9ca90a3e675f"
+							},
+							"label" : {
+								"text" : "Format",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.4266809748116474,
+							"y" : 0.09601612355312107
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "fb3f5547-26f4-0d00-8397-61ff02ad3860"
+							},
+							"label" : {
+								"text" : "GAS",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.2260846511623568,
+							"y" : 0.8334055121088574
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "f3708e1b-61f4-0d00-9dcf-c94d04d9c885"
+							},
+							"label" : {
+								"text" : "Proof Aggregation",
+								"x" : 6.166666666666667,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.5004198715787688,
+							"y" : 0.5780128251818629
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "b4c66321-61f4-0d00-9dd0-1ee104d9c885"
+							},
+							"label" : {
+								"text" : "Proof Generation",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.34822181072957265,
+							"y" : 0.09601612355312107
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "c1c4e525-61f4-0d00-9dd1-841204d9c885"
+							},
+							"label" : {
+								"text" : "Verify Functionality",
+								"x" : -6.416666666666667,
+								"y" : 0.25
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.34706506537966314,
+							"y" : 0.6000064594057489
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "c50db829-61f4-0d00-9dd2-d5be04d9c885"
+							},
+							"label" : {
+								"text" : "IDentification",
+								"x" : -2.9166666666666665,
+								"y" : 1.8333333333333333
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.40567726865908615,
+							"y" : 0.5780128251818629
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "10f14c2b-61f4-0d00-9dd3-b7e804d9c885"
+							},
+							"label" : {
+								"text" : "Risc0",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.9033027767869571,
+							"y" : 0.8334055121088574
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "9cd7cc2d-61f4-0d00-9dd4-04a604d9c885"
+							},
+							"label" : {
+								"text" : "ETH Wrapping Calls",
+								"x" : 0.5,
+								"y" : 2.25
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.3725110162339922,
+							"y" : 0.8334055121088574
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "6b9b319a-62f4-0d00-9dd5-623d04d9c885"
+							},
+							"label" : {
+								"text" : "Batches",
+								"x" : 0.16666666666666666,
+								"y" : 2.4166666666666665
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.45759949546083306,
+							"y" : 0.5780128251818629
+						}
+					],
+					"notes" : [
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 1.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "9cedecf7-24f4-0d00-983f-c9d10a3e675f"
+							},
+							"label" : "Ethereum",
+							"x" : 0.9328038612824506,
+							"y" : 0.015470410227428025
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "a4c6b8fa-24f4-0d00-9840-eb810a3e675f"
+							},
+							"label" : "Anoma",
+							"x" : 0.9314925569733957,
+							"y" : 0.04607527040531614
+						}
+					]
+				},
+				"snippetHeight" : 714
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-16T20:34:15.86177+04:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-16T20:34:15.86177+04:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Plasma Wardley Map"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "3d046eb3-14f4-0d00-ba37-4ad90b82f1ba"
+	}
+}
