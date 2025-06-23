@@ -87,6 +87,43 @@
 											"__type" : "textStyle"
 										},
 										"string" : "[[Anoma Testnet V1: Q3 2025]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-06-23T12:13:56.365434+02:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-06-23T12:13:58.429938+02:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "LU3fNJz0DQC8FYJYCq8Alg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "{{gtPage:Anoma SDK|db=ckq3esm8p5p4t1mejsq3ivq1i}}"
 									}
 								]
 							},

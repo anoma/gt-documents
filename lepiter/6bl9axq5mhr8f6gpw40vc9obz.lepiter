@@ -1,0 +1,1086 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-20T16:05:11.945261+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-20T16:05:16.238274+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "o02RClrzDQCmjEZqAhXJag=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Wardley map for the Anoma SDK product"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-07T11:52:32.578289+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-07T11:52:32.578289+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2UfkClrzDQCnBk1VAhXJag=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "wardleyMap",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-07T16:44:08.210687+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-07T16:44:08.210687+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "NTnQIFrzDQCnPb+9AhXJag=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-07T11:52:44.483836+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-07T11:52:44.483836+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "e/KZC1rzDQCnCvwRAhXJag=="
+				},
+				"wardleyMapDictionary" : {
+					"edges" : [
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "f550462c-5af3-0d00-a7b4-15390215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "f351462c-5af3-0d00-a7b7-a46f0215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "c6f5535e-5ef3-0d00-a7e9-0cfd0215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "0552462c-5af3-0d00-a7ba-de840215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "aac2b565-5ef3-0d00-a7ea-ea810215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "0552462c-5af3-0d00-a7ba-de840215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "f351462c-5af3-0d00-a7b7-a46f0215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "8f7f7c8d-5ef3-0d00-a7eb-bd5b0215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "fc754802-5ef3-0d00-a7cc-49bb0215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "e651462c-5af3-0d00-a7b6-51220215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "f351462c-5af3-0d00-a7b7-a46f0215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "fc754802-5ef3-0d00-a7cc-49bb0215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "ec7aacc2-5ef3-0d00-a7ed-4eff0215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "f550462c-5af3-0d00-a7b4-15390215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "f351462c-5af3-0d00-a7b7-a46f0215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "4552aeac-21f4-0d00-b17f-fc9104ab5ebb"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.30009775171065495,
+								"red" : 0.5004887585532747
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "4552aeac-21f4-0d00-b17f-fc9104ab5ebb"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "7d79ecb6-21f4-0d00-b181-912104ab5ebb"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.30009775171065495,
+								"red" : 0.5004887585532747
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "8292b4b8-21f4-0d00-b182-0e6504ab5ebb"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "4552aeac-21f4-0d00-b17f-fc9104ab5ebb"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.552297165200391,
+								"red" : 0.9198435972629521
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "687ca738-4bf4-0d00-b82e-a7610aaf0096"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "8f7f7c8d-5ef3-0d00-a7eb-bd5b0215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "6de3cf0e-63f4-0d00-b832-d2b80aaf0096"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "fc754802-5ef3-0d00-a7cc-49bb0215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "380fe641-4bf4-0d00-b831-4ca80aaf0096"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "fc754802-5ef3-0d00-a7cc-49bb0215c96a"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "0552462c-5af3-0d00-a7ba-de840215c96a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "8f7f7c8d-5ef3-0d00-a7eb-bd5b0215c96a"
+							},
+							"width" : 1.0
+						}
+					],
+					"evolution_axis" : {
+						"is_visible" : true,
+						"sections" : [
+							"foobar",
+							"custom built",
+							"product (+rental)",
+							"commodity"
+						]
+					},
+					"nodes" : [
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "f550462c-5af3-0d00-a7b4-15390215c96a"
+							},
+							"label" : {
+								"text" : "RL Library Rust",
+								"x" : 0.0,
+								"y" : 2.5833333333333335
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.2194170805622904,
+							"y" : 0.32343396608935393
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "e651462c-5af3-0d00-a7b6-51220215c96a"
+							},
+							"label" : {
+								"text" : "Elixir Library",
+								"x" : 0.5,
+								"y" : 2.5833333333333335
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.3024069262277066,
+							"y" : 0.44565346018572816
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "f351462c-5af3-0d00-a7b7-a46f0215c96a"
+							},
+							"label" : {
+								"text" : "Combination of Rust and Elixir",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.379767149904728,
+							"y" : 0.16639820180165935
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "0552462c-5af3-0d00-a7ba-de840215c96a"
+							},
+							"label" : {
+								"text" : "Indexer",
+								"x" : 0.6666666666666666,
+								"y" : 2.6666666666666665
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.6994750563161859,
+							"y" : 0.3736782599452185
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "ad92a5b8-5df3-0d00-a7bc-58750215c96a"
+							},
+							"label" : {
+								"text" : "Christophe",
+								"x" : 0.3333333333333333,
+								"y" : 2.75
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.9230092479816259,
+							"y" : 0.12706188143556932
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "fc754802-5ef3-0d00-a7cc-49bb0215c96a"
+							},
+							"label" : {
+								"text" : "anoma-sdk",
+								"x" : 0.4166666666666667,
+								"y" : 2.4166666666666665
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.376897521013425,
+							"y" : 0.3022241354680287
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "73058e48-5ef3-0d00-a7e8-faed0215c96a"
+							},
+							"label" : {
+								"text" : "Michael",
+								"x" : 0.6666666666666666,
+								"y" : 2.9166666666666665
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.9238618966138329,
+							"y" : 0.2147356346844129
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "c6f5535e-5ef3-0d00-a7e9-0cfd0215c96a"
+							},
+							"label" : {
+								"text" : "Listen to archive node",
+								"x" : 0.8333333333333334,
+								"y" : 2.5
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.6769604166164612,
+							"y" : 0.4690563043241799
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "aac2b565-5ef3-0d00-a7ea-ea810215c96a"
+							},
+							"label" : {
+								"text" : "Expose historical data",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.7737095232970925,
+							"y" : 0.47249338715897515
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "8f7f7c8d-5ef3-0d00-a7eb-bd5b0215c96a"
+							},
+							"label" : {
+								"text" : "E2E Example",
+								"x" : 0.0,
+								"y" : 3.0833333333333335
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.5079235945877401,
+							"y" : 0.010094260795617477
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "ec7aacc2-5ef3-0d00-a7ed-4eff0215c96a"
+							},
+							"label" : {
+								"text" : "Wrapper for Risc0 ",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.16412971559243245,
+							"y" : 0.446120141106903
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.30009775171065495,
+								"red" : 0.5004887585532747
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "4552aeac-21f4-0d00-b17f-fc9104ab5ebb"
+							},
+							"label" : {
+								"text" : "Dev Docs",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.3423088376892983,
+							"y" : 0.1
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.30009775171065495,
+								"red" : 0.5004887585532747
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "504445b5-21f4-0d00-b180-b75a04ab5ebb"
+							},
+							"label" : {
+								"text" : "Maurice",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.9226106792504553,
+							"y" : 0.2960302734375
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.30009775171065495,
+								"red" : 0.5004887585532747
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "7d79ecb6-21f4-0d00-b181-912104ab5ebb"
+							},
+							"label" : {
+								"text" : "User Feedback",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.34415173622628625,
+							"y" : 0.0075
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.30009775171065495,
+								"red" : 0.5004887585532747
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "8292b4b8-21f4-0d00-b182-0e6504ab5ebb"
+							},
+							"label" : {
+								"text" : "Version Compatibility",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.27704914378558426,
+							"y" : 0.0164453125
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.552297165200391,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "687ca738-4bf4-0d00-b82e-a7610aaf0096"
+							},
+							"label" : {
+								"text" : "Counter Example in Rust",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.563807202309776,
+							"y" : 0.458935546875
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.552297165200391,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "ed4f7f39-4bf4-0d00-b82f-0fd40aaf0096"
+							},
+							"label" : {
+								"text" : "Xuyang",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.9257298407664993,
+							"y" : 0.3637841796875
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "380fe641-4bf4-0d00-b831-4ca80aaf0096"
+							},
+							"label" : {
+								"text" : "Conversion to EVM types",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.457479574508064,
+							"y" : 0.4583740234375
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 1.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "6de3cf0e-63f4-0d00-b832-d2b80aaf0096"
+							},
+							"label" : {
+								"text" : "Counter Example",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.3705143042845548,
+							"y" : 0.4578076171875
+						}
+					]
+				},
+				"snippetHeight" : 828
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-07T11:58:43.522322+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-07T11:58:43.522322+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "cnEAIVrzDQCnbuS5AhXJag=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-07T11:52:39.808227+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-06-20T11:12:37.324114+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Anoma SDK"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "6f4b910a-5af3-0d00-a68b-331b0215c96a"
+	}
+}

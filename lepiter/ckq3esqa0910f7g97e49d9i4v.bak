@@ -39,7 +39,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-06-13T01:19:56.098211+08:00"
+												"dateAndTimeString" : "2025-06-13T01:23:12.341295+08:00"
 											}
 										},
 										"uid" : {
@@ -49,7 +49,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "[[Anoma Mainet: June 2025 - April 2025]]"
+										"string" : "[[Anoma V1[Mainnet]: June 2025 - April 2025]]"
 									},
 									{
 										"__type" : "textSnippet",
