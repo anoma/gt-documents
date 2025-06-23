@@ -270,8 +270,62 @@
 											"is_visible" : false
 										},
 										"width" : 12,
-										"x" : 0.4623451683569319,
-										"y" : 0.4315171988701647
+										"x" : 0.45920298453917857,
+										"y" : 0.46377526338629377
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "a89b5a3e-a2f4-0d00-9a28-427a09774850"
+										},
+										"label" : {
+											"text" : "Label",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.465192093091287,
+										"y" : 0.3266055199407762
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "c840793e-a2f4-0d00-9a2b-e87009774850"
+										},
+										"label" : {
+											"text" : "Label",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.6871122773263616,
+										"y" : 0.4149341214087702
 									}
 								]
 							},
