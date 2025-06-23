@@ -18,7 +18,45 @@
 										"__type" : "textSnippet",
 										"children" : {
 											"__type" : "snippets",
-											"items" : [ ]
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-06-23T21:15:19.864015+04:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-06-23T21:15:32.978391+04:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "6OHiF6L0DQC6SzQMCMjjWg=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "(("
+												}
+											]
 										},
 										"createEmail" : {
 											"__type" : "email",
@@ -39,7 +77,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-06-13T01:19:56.098211+08:00"
+												"dateAndTimeString" : "2025-06-13T01:23:12.341295+08:00"
 											}
 										},
 										"uid" : {
@@ -49,7 +87,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "[[Anoma Mainet: June 2025 - April 2025]]"
+										"string" : "[[Anoma V1[Mainnet]: June 2025 - April 2025]]"
 									},
 									{
 										"__type" : "textSnippet",
