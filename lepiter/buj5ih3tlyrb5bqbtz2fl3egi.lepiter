@@ -114,6 +114,54 @@
 											"uuid" : "064d8ce1-c4f3-0d00-a014-de1200fc20c8"
 										},
 										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "db80d2fa-12f4-0d00-9e41-01ae0b90bd2b"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "2b67f2e1-c4f3-0d00-a015-903f00fc20c8"
+										},
+										"width" : 1.0
+									},
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "db80d2fa-12f4-0d00-9e41-01ae0b90bd2b"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "064d8ce1-c4f3-0d00-a014-de1200fc20c8"
+										},
+										"width" : 1.0
 									}
 								],
 								"nodes" : [
@@ -161,15 +209,15 @@
 										},
 										"label" : {
 											"text" : "Resource Plasma",
-											"x" : 0.5,
-											"y" : 2.0
+											"x" : 3.1666666666666665,
+											"y" : 2.1666666666666665
 										},
 										"pipeline" : {
 											"is_visible" : false
 										},
 										"width" : 12,
-										"x" : 0.5657639019563752,
-										"y" : 0.428467021268957
+										"x" : 0.5683851667235746,
+										"y" : 0.3586028155330434
 									},
 									{
 										"color" : {
@@ -195,12 +243,39 @@
 											"is_visible" : false
 										},
 										"width" : 12,
-										"x" : 0.45079280820637513,
-										"y" : 0.26304393095128686
+										"x" : 0.4347928082063751,
+										"y" : 0.2814262838924634
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "db80d2fa-12f4-0d00-9e41-01ae0b90bd2b"
+										},
+										"label" : {
+											"text" : "Development Experience",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.4623451683569319,
+										"y" : 0.4315171988701647
 									}
 								]
 							},
-							"snippetHeight" : 300
+							"snippetHeight" : 493
 						}
 					]
 				},

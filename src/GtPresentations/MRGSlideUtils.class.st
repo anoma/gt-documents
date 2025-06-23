@@ -70,7 +70,7 @@ MRGSlideUtils class >> managementReadingGroupWardleyMap [
 	| page |
 	page := MRGSlideUtils
 			findPage: 'Management Reading Group Opening'
-			dataBaseNamed: 'Management'.
+			dataBaseNamed: 'Anoma'.
 	^ (page allChildrenDepthFirst
 		select: [ :child | child isKindOf: LeWardleyMapSnippet ]) first
 ]
