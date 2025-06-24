@@ -33,7 +33,7 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2025-06-23T10:26:32.151663-07:00"
+															"dateAndTimeString" : "2025-06-23T10:26:41.6327-07:00"
 														}
 													},
 													"editEmail" : {
@@ -44,7 +44,7 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2025-06-23T10:26:38.47237-07:00"
+															"dateAndTimeString" : "2025-06-23T10:26:43.503802-07:00"
 														}
 													},
 													"uid" : {
@@ -54,7 +54,44 @@
 													"paragraphStyle" : {
 														"__type" : "textStyle"
 													},
-													"string" : "[[De"
+													"string" : "[[DEX Wardley Map]]"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-06-23T10:26:45.992872-07:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2025-06-23T10:26:46.008784-07:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "If6nQKL0DQCatxBhCXdIUA=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "[[Plasma Wardley Map]]"
 												}
 											]
 										},

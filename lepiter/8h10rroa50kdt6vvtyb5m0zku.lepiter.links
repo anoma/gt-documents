@@ -73,6 +73,42 @@
 					"uuid" : "3d046eb3-14f4-0d00-ba37-4ad90b82f1ba"
 				}
 			}
+		},
+		{
+			"__type" : "explicitLink",
+			"linkUuid" : {
+				"__type" : "uuid",
+				"uuid" : "64336f30-b4f4-0d00-9b76-c1e209774850"
+			},
+			"createEmail" : {
+				"__type" : "email",
+				"emailString" : "<unknown>"
+			},
+			"createTime" : {
+				"__type" : "time",
+				"time" : {
+					"__type" : "dateAndTime",
+					"dateAndTimeString" : "2025-06-24T07:50:41.123211-07:00"
+				}
+			},
+			"originReference" : {
+				"__type" : "wardleyMapNodeReference",
+				"snippetUid" : {
+					"__type" : "uid",
+					"uidString" : "jF7S4MTzDQCgCmRkAPwgyA=="
+				},
+				"nodeUUID" : {
+					"__type" : "uuid",
+					"uuid" : "db80d2fa-12f4-0d00-9e41-01ae0b90bd2b"
+				}
+			},
+			"targetReference" : {
+				"__type" : "pageReferenceByUid",
+				"pageUid" : {
+					"__type" : "uuid",
+					"uuid" : "6f4b910a-5af3-0d00-a68b-331b0215c96a"
+				}
+			}
 		}
 	],
 	"uid" : {
