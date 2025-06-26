@@ -270,12 +270,46 @@
 											"is_visible" : false
 										},
 										"width" : 12,
-										"x" : 0.45920298453917857,
-										"y" : 0.46377526338629377
+										"x" : 0.4629997319921938,
+										"y" : 0.4659258010207023
 									}
 								]
 							},
 							"snippetHeight" : 493
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-25T11:55:53.348211-07:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-25T11:56:40.316362-07:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "o00xu8v0DQCnottTAFgi1Q=="
+							},
+							"code" : "pages := thisSnippet page allOutgoingExplicitLinks\r\t\tcollect: [ :each | each targetReference content ]\r\t\tas: Set.\rpages add: thisSnippet page.\rLeWardleyMapSnippetGroup\r\twithAll: ((pages as: OrderedCollection)\r\t\t\tflatCollect: [ :page | \r\t\t\t\tpage allChildrenDepthFirst\r\t\t\t\t\tselect: [ :child | child isKindOf: LeWardleyMapSnippet ] ])"
 						}
 					]
 				},

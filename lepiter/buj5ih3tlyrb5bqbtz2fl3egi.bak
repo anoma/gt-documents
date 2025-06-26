@@ -276,6 +276,175 @@
 								]
 							},
 							"snippetHeight" : 493
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-25T11:55:53.348211-07:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-25T11:56:40.316362-07:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "o00xu8v0DQCnottTAFgi1Q=="
+							},
+							"code" : "pages := thisSnippet page allOutgoingExplicitLinks\r\t\tcollect: [ :each | each targetReference content ]\r\t\tas: Set.\rpages add: thisSnippet page.\rLeWardleyMapSnippetGroup\r\twithAll: ((pages as: OrderedCollection)\r\t\t\tflatCollect: [ :page | \r\t\t\t\tpage allChildrenDepthFirst\r\t\t\t\t\tselect: [ :child | child isKindOf: LeWardleyMapSnippet ] ])"
+						},
+						{
+							"__type" : "wardleyMap",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-25T11:56:49.630871-07:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-25T11:56:49.630871-07:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Jx2Mvsv0DQCnv7ZlAFgi1Q=="
+							},
+							"wardleyMapDictionary" : {
+								"edges" : [
+									{
+										"arrow" : false,
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"from" : {
+											"__type" : "uuid",
+											"uuid" : "7e2c52c2-cbf4-0d00-a7cb-edfb005822d5"
+										},
+										"label" : {
+											"is_visible" : false,
+											"text" : "Edge label",
+											"x" : 0.5,
+											"y" : 0.5
+										},
+										"to" : {
+											"__type" : "uuid",
+											"uuid" : "0c2d52c2-cbf4-0d00-a7cc-1af2005822d5"
+										},
+										"width" : 1.0
+									}
+								],
+								"nodes" : [
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "7e2c52c2-cbf4-0d00-a7cb-edfb005822d5"
+										},
+										"label" : {
+											"text" : "fasdfs",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.54,
+										"y" : 0.18000000000000005
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "0c2d52c2-cbf4-0d00-a7cc-1af2005822d5"
+										},
+										"label" : {
+											"text" : "sdfs",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.4098658482566601,
+										"y" : 0.4761764705882353
+									}
+								],
+								"notes" : [
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.0,
+											"red" : 0.0
+										},
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "a02d52c2-cbf4-0d00-a7cd-2210005822d5"
+										},
+										"label" : "asf",
+										"x" : 0.95,
+										"y" : 0.10999999999999999
+									}
+								]
+							},
+							"snippetHeight" : 300
 						}
 					]
 				},

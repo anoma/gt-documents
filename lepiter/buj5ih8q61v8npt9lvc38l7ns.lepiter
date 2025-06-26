@@ -581,30 +581,6 @@
 										},
 										"from" : {
 											"__type" : "uuid",
-											"uuid" : "6fbf7e07-93f3-0d00-87b9-78dd00fc20c8"
-										},
-										"label" : {
-											"is_visible" : false,
-											"text" : "Edge label",
-											"x" : 0.5,
-											"y" : 0.5
-										},
-										"to" : {
-											"__type" : "uuid",
-											"uuid" : "116a5ef1-92f3-0d00-8792-bf7f00fc20c8"
-										},
-										"width" : 1.0
-									},
-									{
-										"arrow" : false,
-										"color" : {
-											"alpha" : 1.0,
-											"blue" : 0.5004887585532747,
-											"green" : 0.0,
-											"red" : 0.5004887585532747
-										},
-										"from" : {
-											"__type" : "uuid",
 											"uuid" : "e1695ef1-92f3-0d00-8789-32a600fc20c8"
 										},
 										"label" : {
@@ -712,30 +688,6 @@
 										"to" : {
 											"__type" : "uuid",
 											"uuid" : "e1695ef1-92f3-0d00-8789-32a600fc20c8"
-										},
-										"width" : 1.0
-									},
-									{
-										"arrow" : false,
-										"color" : {
-											"alpha" : 1.0,
-											"blue" : 0.9198435972629521,
-											"green" : 0.0,
-											"red" : 0.0
-										},
-										"from" : {
-											"__type" : "uuid",
-											"uuid" : "f8344659-93f3-0d00-87c6-72c100fc20c8"
-										},
-										"label" : {
-											"is_visible" : false,
-											"text" : "Edge label",
-											"x" : 0.5,
-											"y" : 0.5
-										},
-										"to" : {
-											"__type" : "uuid",
-											"uuid" : "6fbf7e07-93f3-0d00-87b9-78dd00fc20c8"
 										},
 										"width" : 1.0
 									},
@@ -928,30 +880,6 @@
 										"to" : {
 											"__type" : "uuid",
 											"uuid" : "e1695ef1-92f3-0d00-8789-32a600fc20c8"
-										},
-										"width" : 1.0
-									},
-									{
-										"arrow" : false,
-										"color" : {
-											"alpha" : 1.0,
-											"blue" : 0.0,
-											"green" : 0.5004887585532747,
-											"red" : 0.0
-										},
-										"from" : {
-											"__type" : "uuid",
-											"uuid" : "e614d2c8-94f3-0d00-87cb-99e800fc20c8"
-										},
-										"label" : {
-											"is_visible" : false,
-											"text" : "Edge label",
-											"x" : 0.5,
-											"y" : 0.5
-										},
-										"to" : {
-											"__type" : "uuid",
-											"uuid" : "6fbf7e07-93f3-0d00-87b9-78dd00fc20c8"
 										},
 										"width" : 1.0
 									},
@@ -1360,30 +1288,6 @@
 										"to" : {
 											"__type" : "uuid",
 											"uuid" : "a5695ef1-92f3-0d00-877d-f35600fc20c8"
-										},
-										"width" : 1.0
-									},
-									{
-										"arrow" : false,
-										"color" : {
-											"alpha" : 1.0,
-											"blue" : 0.5004887585532747,
-											"green" : 0.0,
-											"red" : 0.5004887585532747
-										},
-										"from" : {
-											"__type" : "uuid",
-											"uuid" : "1e57ea6a-64f4-0d00-b1c3-51fa08e1804c"
-										},
-										"label" : {
-											"is_visible" : false,
-											"text" : "Edge label",
-											"x" : 0.5,
-											"y" : 0.5
-										},
-										"to" : {
-											"__type" : "uuid",
-											"uuid" : "4f6a5ef1-92f3-0d00-879b-e54300fc20c8"
 										},
 										"width" : 1.0
 									},
@@ -2075,60 +1979,6 @@
 									{
 										"color" : {
 											"alpha" : 1.0,
-											"blue" : 0.5004887585532747,
-											"green" : 0.0,
-											"red" : 0.5004887585532747
-										},
-										"evolve" : {
-											"is_visible" : false
-										},
-										"height" : 12,
-										"id" : {
-											"__type" : "uuid",
-											"uuid" : "446a5ef1-92f3-0d00-8799-481c00fc20c8"
-										},
-										"label" : {
-											"text" : "AnoChat?",
-											"x" : 0.3333333333333333,
-											"y" : -1.1666666666666667
-										},
-										"pipeline" : {
-											"is_visible" : false
-										},
-										"width" : 12,
-										"x" : 0.4442561074619088,
-										"y" : 0.19827288231204301
-									},
-									{
-										"color" : {
-											"alpha" : 1.0,
-											"blue" : 0.5004887585532747,
-											"green" : 0.0,
-											"red" : 0.5004887585532747
-										},
-										"evolve" : {
-											"is_visible" : false
-										},
-										"height" : 12,
-										"id" : {
-											"__type" : "uuid",
-											"uuid" : "4f6a5ef1-92f3-0d00-879b-e54300fc20c8"
-										},
-										"label" : {
-											"text" : "Leaderboards",
-											"x" : 0.9166666666666666,
-											"y" : 2.5833333333333335
-										},
-										"pipeline" : {
-											"is_visible" : false
-										},
-										"width" : 12,
-										"x" : 0.35240887783220354,
-										"y" : 0.19827288231204301
-									},
-									{
-										"color" : {
-											"alpha" : 1.0,
 											"blue" : 0.0,
 											"green" : 0.0,
 											"red" : 0.0
@@ -2196,7 +2046,7 @@
 											"uuid" : "6f6a5ef1-92f3-0d00-87a1-6ab000fc20c8"
 										},
 										"label" : {
-											"text" : "Hyper Binary",
+											"text" : "BitFlip",
 											"x" : 0.5,
 											"y" : 2.0
 										},
@@ -2341,45 +2191,6 @@
 										"width" : 12,
 										"x" : 0.8156981367841001,
 										"y" : 0.61
-									},
-									{
-										"color" : {
-											"alpha" : 1.0,
-											"blue" : 0.5004887585532747,
-											"green" : 0.0,
-											"red" : 0.5004887585532747
-										},
-										"evolve" : {
-											"is_visible" : false
-										},
-										"height" : 12,
-										"id" : {
-											"__type" : "uuid",
-											"uuid" : "6fbf7e07-93f3-0d00-87b9-78dd00fc20c8"
-										},
-										"label" : {
-											"text" : "Applicaitons",
-											"x" : 0.8333333333333334,
-											"y" : -0.8333333333333334
-										},
-										"pipeline" : {
-											"inner_nodes" : [
-												{
-													"__type" : "uuid",
-													"uuid" : "446a5ef1-92f3-0d00-8799-481c00fc20c8"
-												},
-												{
-													"__type" : "uuid",
-													"uuid" : "4f6a5ef1-92f3-0d00-879b-e54300fc20c8"
-												}
-											],
-											"is_visible" : true,
-											"x" : 0.34240887783220353,
-											"y" : 0.4542561074619088
-										},
-										"width" : 12,
-										"x" : 0.3836982971415742,
-										"y" : 0.19827288231204301
 									},
 									{
 										"color" : {
@@ -2977,7 +2788,7 @@
 												}
 											],
 											"is_visible" : true,
-											"x" : 0.5395882365551907,
+											"x" : 0.5409429323999217,
 											"y" : 0.5646233403962092
 										},
 										"width" : 12,
@@ -3311,7 +3122,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-11T04:38:50.965579+08:00"
+						"dateAndTimeString" : "2025-06-25T07:29:16.599461-07:00"
 					}
 				},
 				"editEmail" : {
@@ -3322,7 +3133,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-11T04:38:50.965579+08:00"
+						"dateAndTimeString" : "2025-06-25T07:39:51.075857-07:00"
 					}
 				},
 				"uid" : {
@@ -3332,7 +3143,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "rir"
 			}
 		]
 	},

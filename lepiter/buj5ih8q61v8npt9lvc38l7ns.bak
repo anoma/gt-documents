@@ -2196,7 +2196,7 @@
 											"uuid" : "6f6a5ef1-92f3-0d00-87a1-6ab000fc20c8"
 										},
 										"label" : {
-											"text" : "Hyper Binary",
+											"text" : "BitFlip",
 											"x" : 0.5,
 											"y" : 2.0
 										},
@@ -2384,9 +2384,9 @@
 									{
 										"color" : {
 											"alpha" : 1.0,
-											"blue" : 0.9198435972629521,
-											"green" : 0.0,
-											"red" : 0.0
+											"blue" : 0.375366568914956,
+											"green" : 0.375366568914956,
+											"red" : 0.375366568914956
 										},
 										"evolve" : {
 											"is_visible" : false
@@ -2977,7 +2977,7 @@
 												}
 											],
 											"is_visible" : true,
-											"x" : 0.5395882365551907,
+											"x" : 0.5409429323999217,
 											"y" : 0.5646233403962092
 										},
 										"width" : 12,
@@ -3311,7 +3311,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-11T04:38:50.965579+08:00"
+						"dateAndTimeString" : "2025-06-25T07:29:16.599461-07:00"
 					}
 				},
 				"editEmail" : {
@@ -3322,7 +3322,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-11T04:38:50.965579+08:00"
+						"dateAndTimeString" : "2025-06-25T07:39:51.075857-07:00"
 					}
 				},
 				"uid" : {
@@ -3332,7 +3332,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "rir"
 			}
 		]
 	},
