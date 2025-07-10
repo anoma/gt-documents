@@ -281,7 +281,45 @@
 							"__type" : "pharoSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-07-10T08:31:38.921441-07:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2025-07-10T08:32:16.374002-07:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "+3kHWvb1DQCUa8WvDHcDxg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Annoying these should be linked automatically.\n[[DEX Wardley Map]]\n [[Plasma Wardley Map]]\n [[Anoma SDK]]"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
