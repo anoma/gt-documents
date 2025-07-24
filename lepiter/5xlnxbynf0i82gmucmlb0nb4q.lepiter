@@ -181,6 +181,30 @@
 								"uuid" : "d66de0be-29f4-0d00-8c08-665907d33864"
 							},
 							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "93e208c5-29f4-0d00-8c0a-a8a607d33864"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "fca39e87-d6f6-0d00-9d81-0c990902b966"
+							},
+							"width" : 1.0
 						}
 					],
 					"nodes" : [
@@ -485,6 +509,99 @@
 							"width" : 12,
 							"x" : 0.36926022489144505,
 							"y" : 0.2854667028646952
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "fca39e87-d6f6-0d00-9d81-0c990902b966"
+							},
+							"label" : {
+								"text" : "Vault",
+								"x" : -0.08333333333333333,
+								"y" : -1.4166666666666667
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "2d5f9689-d6f6-0d00-9d84-19730902b966"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "4178928a-d6f6-0d00-9d85-f4dd0902b966"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.049103905167467266,
+								"y" : 0.22282778520839575
+							},
+							"width" : 12,
+							"x" : 0.21282778520839574,
+							"y" : 0.727322330593815
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "2d5f9689-d6f6-0d00-9d84-19730902b966"
+							},
+							"label" : {
+								"text" : "Vault Program Language",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.15854167494214896,
+							"y" : 0.727322330593815
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "4178928a-d6f6-0d00-9d85-f4dd0902b966"
+							},
+							"label" : {
+								"text" : "Vault Program Gas",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.05910390516746727,
+							"y" : 0.727322330593815
 						}
 					]
 				},
