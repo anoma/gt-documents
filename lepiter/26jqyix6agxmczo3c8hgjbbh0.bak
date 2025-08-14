@@ -273,54 +273,6 @@
 								"alpha" : 1.0,
 								"blue" : 0.0,
 								"green" : 0.0,
-								"red" : 1.0
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "0f3d9629-72f7-0d00-bbf0-bb6405735b51"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "68e1ca19-72f7-0d00-bbe4-95af05735b51"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 1.0
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "e9c1ee2a-72f7-0d00-bbf1-b8a905735b51"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "68e1ca19-72f7-0d00-bbe4-95af05735b51"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
 								"red" : 0.0
 							},
 							"from" : {
@@ -871,30 +823,6 @@
 							"arrow" : false,
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 0.0
-							},
-							"from" : {
-								"__type" : "uuid",
-								"uuid" : "17dfe9ae-73f7-0d00-9b1e-173a0d30dd1a"
-							},
-							"label" : {
-								"is_visible" : false,
-								"text" : "Edge label",
-								"x" : 0.5,
-								"y" : 0.5
-							},
-							"to" : {
-								"__type" : "uuid",
-								"uuid" : "0da46820-72f7-0d00-bbeb-855705735b51"
-							},
-							"width" : 1.0
-						},
-						{
-							"arrow" : false,
-							"color" : {
-								"alpha" : 1.0,
 								"blue" : 1.0,
 								"green" : 0.0,
 								"red" : 0.0
@@ -1010,6 +938,102 @@
 								"uuid" : "db88135a-74f7-0d00-b69f-2c1704f8f082"
 							},
 							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "0da46820-72f7-0d00-bbeb-855705735b51"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "28b6f6d5-b7f8-0d00-aee1-444907fab475"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "28b6f6d5-b7f8-0d00-aee1-444907fab475"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "990a42ac-72f7-0d00-8af7-08b40f3fa8ef"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "17dfe9ae-73f7-0d00-9b1e-173a0d30dd1a"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "28b6f6d5-b7f8-0d00-aee1-444907fab475"
+							},
+							"width" : 1.0
+						},
+						{
+							"arrow" : false,
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"from" : {
+								"__type" : "uuid",
+								"uuid" : "e209a115-b8f8-0d00-ba9b-1dbd07fab475"
+							},
+							"label" : {
+								"is_visible" : false,
+								"text" : "Edge label",
+								"x" : 0.5,
+								"y" : 0.5
+							},
+							"to" : {
+								"__type" : "uuid",
+								"uuid" : "d3fafe17-72f7-0d00-bbe1-bdb805735b51"
+							},
+							"width" : 1.0
 						}
 					],
 					"nodes" : [
@@ -1029,16 +1053,16 @@
 								"uuid" : "d3fafe17-72f7-0d00-bbe1-bdb805735b51"
 							},
 							"label" : {
-								"text" : "Heliax Sender",
-								"x" : -1.5,
-								"y" : -0.8333333333333334
+								"text" : "Heliax LD",
+								"x" : 0.0,
+								"y" : -1.0833333333333333
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.07403574080522643,
-							"y" : 0.3378654466894029
+							"x" : 0.08613251499877482,
+							"y" : 0.19035258219540632
 						},
 						{
 							"color" : {
@@ -1111,15 +1135,15 @@
 							},
 							"label" : {
 								"text" : "Indexing",
-								"x" : 0.25,
-								"y" : -1.5
+								"x" : 1.1666666666666667,
+								"y" : 2.0
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.20143507735558402,
-							"y" : 0.18929650648584906
+							"x" : 0.15002378703300337,
+							"y" : 0.32480250991638077
 						},
 						{
 							"color" : {
@@ -1253,8 +1277,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.4268486605896357,
-							"y" : 0.360361717577455
+							"x" : 0.47157629296942877,
+							"y" : 0.43498163872420237
 						},
 						{
 							"color" : {
@@ -1300,8 +1324,8 @@
 							},
 							"label" : {
 								"text" : "Check Testing",
-								"x" : 0.5,
-								"y" : 2.0
+								"x" : -0.4166666666666667,
+								"y" : 1.6666666666666667
 							},
 							"pipeline" : {
 								"is_visible" : false
@@ -1327,15 +1351,15 @@
 							},
 							"label" : {
 								"text" : "ERC20 Kudo FE",
-								"x" : -1.0833333333333333,
-								"y" : -1.5833333333333333
+								"x" : 2.1666666666666665,
+								"y" : -1.5
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.29891742194637605,
-							"y" : 0.09418232363247749
+							"x" : 0.5781512929141173,
+							"y" : 0.05855616574426457
 						},
 						{
 							"color" : {
@@ -1354,15 +1378,15 @@
 							},
 							"label" : {
 								"text" : "ERC20 Direct Wrap FE",
-								"x" : 1.5,
-								"y" : -1.75
+								"x" : 0.5,
+								"y" : -1.4166666666666667
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.44223189539519786,
-							"y" : 0.09166705751500857
+							"x" : 0.4331593147500366,
+							"y" : 0.05855616574426457
 						},
 						{
 							"color" : {
@@ -1421,114 +1445,6 @@
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 1.0,
-								"green" : 0.0,
-								"red" : 0.0
-							},
-							"evolve" : {
-								"is_visible" : false
-							},
-							"height" : 12,
-							"id" : {
-								"__type" : "uuid",
-								"uuid" : "b49b7b37-72f7-0d00-bbf4-701c05735b51"
-							},
-							"label" : {
-								"text" : "PA Contract",
-								"x" : 0.5,
-								"y" : 2.0
-							},
-							"pipeline" : {
-								"is_visible" : false
-							},
-							"width" : 12,
-							"x" : 0.8863754489418932,
-							"y" : 0.02900646072309177
-						},
-						{
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.8504398826979472,
-								"red" : 0.0
-							},
-							"evolve" : {
-								"is_visible" : false
-							},
-							"height" : 12,
-							"id" : {
-								"__type" : "uuid",
-								"uuid" : "10d7a937-72f7-0d00-bbf5-4c1e05735b51"
-							},
-							"label" : {
-								"text" : "Circuits",
-								"x" : 0.5,
-								"y" : 2.0
-							},
-							"pipeline" : {
-								"is_visible" : false
-							},
-							"width" : 12,
-							"x" : 0.8870160799990026,
-							"y" : 0.09065401002023482
-						},
-						{
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 1.0,
-								"green" : 0.0,
-								"red" : 1.0
-							},
-							"evolve" : {
-								"is_visible" : false
-							},
-							"height" : 12,
-							"id" : {
-								"__type" : "uuid",
-								"uuid" : "9dda3d3a-72f7-0d00-bbf8-78d205735b51"
-							},
-							"label" : {
-								"text" : "Sender",
-								"x" : 0.5,
-								"y" : 2.0
-							},
-							"pipeline" : {
-								"is_visible" : false
-							},
-							"width" : 12,
-							"x" : 0.885519447552482,
-							"y" : 0.22957028737403518
-						},
-						{
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.0,
-								"red" : 1.0
-							},
-							"evolve" : {
-								"is_visible" : false
-							},
-							"height" : 12,
-							"id" : {
-								"__type" : "uuid",
-								"uuid" : "97f7143b-72f7-0d00-bbfa-a0bb05735b51"
-							},
-							"label" : {
-								"text" : "Front End",
-								"x" : 0.5,
-								"y" : 2.0
-							},
-							"pipeline" : {
-								"is_visible" : false
-							},
-							"width" : 12,
-							"x" : 0.8844351153382355,
-							"y" : 0.15771751338376394
-						},
-						{
-							"color" : {
-								"alpha" : 1.0,
 								"blue" : 0.624633431085044,
 								"green" : 0.624633431085044,
 								"red" : 0.624633431085044
@@ -1543,15 +1459,15 @@
 							},
 							"label" : {
 								"text" : "Nullified Resource Calls",
-								"x" : 2.3333333333333335,
-								"y" : -2.0
+								"x" : 1.3333333333333333,
+								"y" : -0.8333333333333334
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.41275373353517303,
-							"y" : 0.5514072005990031
+							"x" : 0.40670534643839884,
+							"y" : 0.5702751251273049
 						},
 						{
 							"color" : {
@@ -1728,46 +1644,19 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "c3860ca7-72f7-0d00-8af5-29f90f3fa8ef"
-							},
-							"label" : {
-								"text" : "Forwarders",
-								"x" : 0.5,
-								"y" : 2.0
-							},
-							"pipeline" : {
-								"is_visible" : false
-							},
-							"width" : 12,
-							"x" : 0.8856898475851877,
-							"y" : 0.29687447654239923
-						},
-						{
-							"color" : {
-								"alpha" : 1.0,
-								"blue" : 0.0,
-								"green" : 0.552297165200391,
-								"red" : 0.9198435972629521
-							},
-							"evolve" : {
-								"is_visible" : false
-							},
-							"height" : 12,
-							"id" : {
-								"__type" : "uuid",
 								"uuid" : "28ad36a8-72f7-0d00-8af6-bb710f3fa8ef"
 							},
 							"label" : {
 								"text" : "ERC20 Kudo FW",
-								"x" : -1.75,
-								"y" : -3.0
+								"x" : 0.0,
+								"y" : -1.1666666666666667
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6114806623362578,
-							"y" : 0.2585163410899979
+							"x" : 0.6086504736570125,
+							"y" : 0.25520576794702254
 						},
 						{
 							"color" : {
@@ -1786,15 +1675,15 @@
 							},
 							"label" : {
 								"text" : "ERC20 Direct  FW",
-								"x" : 6.083333333333333,
-								"y" : 1.5833333333333333
+								"x" : 5.5,
+								"y" : 1.0
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6640485505269295,
-							"y" : 0.3837658209825257
+							"x" : 0.6055389644039836,
+							"y" : 0.47559838008608724
 						},
 						{
 							"color" : {
@@ -1964,8 +1853,8 @@
 							},
 							"label" : {
 								"text" : "Deployment Testing",
-								"x" : 0.5,
-								"y" : 2.0
+								"x" : 3.0,
+								"y" : 1.75
 							},
 							"pipeline" : {
 								"is_visible" : false
@@ -1991,15 +1880,15 @@
 							},
 							"label" : {
 								"text" : "Auditing",
-								"x" : 3.0,
-								"y" : 2.0
+								"x" : 0.5833333333333334,
+								"y" : 1.5833333333333333
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.7807748344927707,
-							"y" : 0.20095102823823444
+							"x" : 0.7515409635250287,
+							"y" : 0.17865257197751402
 						},
 						{
 							"color" : {
@@ -2018,15 +1907,15 @@
 							},
 							"label" : {
 								"text" : "PA Documentation",
-								"x" : 0.25,
-								"y" : -1.5833333333333333
+								"x" : 3.75,
+								"y" : -1.0833333333333333
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6275921637440804,
-							"y" : 0.08436503336728131
+							"x" : 0.6296082927763386,
+							"y" : 0.1118092872266295
 						},
 						{
 							"color" : {
@@ -2052,8 +1941,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6228176574678097,
-							"y" : 0.3428277723989601
+							"x" : 0.5425605059157707,
+							"y" : 0.8029505915393824
 						},
 						{
 							"color" : {
@@ -2085,9 +1974,9 @@
 						{
 							"color" : {
 								"alpha" : 1.0,
-								"blue" : 0.624633431085044,
-								"green" : 0.624633431085044,
-								"red" : 0.624633431085044
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
 							},
 							"evolve" : {
 								"is_visible" : false
@@ -2095,19 +1984,58 @@
 							"height" : 12,
 							"id" : {
 								"__type" : "uuid",
-								"uuid" : "97c0abeb-85f7-0d00-a948-9aa40724bfef"
+								"uuid" : "28b6f6d5-b7f8-0d00-aee1-444907fab475"
 							},
 							"label" : {
-								"text" : "Label",
-								"x" : 0.5,
-								"y" : 2.0
+								"text" : "ERC20 Wrapping Mechanism",
+								"x" : 1.0833333333333333,
+								"y" : -0.8333333333333334
 							},
 							"pipeline" : {
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.1783827972802102,
-							"y" : 0.28593473614386794
+							"x" : 0.546157390434279,
+							"y" : 0.36507931024675205
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "e209a115-b8f8-0d00-ba9b-1dbd07fab475"
+							},
+							"label" : {
+								"text" : "Frotnends",
+								"x" : 0.4166666666666667,
+								"y" : -1.75
+							},
+							"pipeline" : {
+								"inner_nodes" : [
+									{
+										"__type" : "uuid",
+										"uuid" : "0f3d9629-72f7-0d00-bbf0-bb6405735b51"
+									},
+									{
+										"__type" : "uuid",
+										"uuid" : "e9c1ee2a-72f7-0d00-bbf1-b8a905735b51"
+									}
+								],
+								"is_visible" : true,
+								"x" : 0.4231593147500366,
+								"y" : 0.5881512929141173
+							},
+							"width" : 12,
+							"x" : 0.5184208826864916,
+							"y" : 0.05855616574426457
 						}
 					],
 					"notes" : [
@@ -2125,10 +2053,122 @@
 							"label" : "",
 							"x" : 0.23967314043751956,
 							"y" : 0.44417471255896224
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 1.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "4b7a8ac5-b7f8-0d00-aedc-4cfe07fab475"
+							},
+							"label" : "PA Contract",
+							"x" : 0.8824987902557132,
+							"y" : 0.035808648372806055
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.5004887585532747,
+								"red" : 0.0
+							},
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "4a678dc6-b7f8-0d00-aedd-f6cb07fab475"
+							},
+							"label" : "Circuits",
+							"x" : 0.8891284341283926,
+							"y" : 0.07010930025792289
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.9198435972629521
+							},
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "dbb1aec7-b7f8-0d00-aede-964007fab475"
+							},
+							"label" : "Front End",
+							"x" : 0.8849010762396341,
+							"y" : 0.1095760546490044
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.8504398826979472,
+								"green" : 0.0,
+								"red" : 0.8504398826979472
+							},
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "a7d596c8-b7f8-0d00-aedf-6cc007fab475"
+							},
+							"label" : "Sender",
+							"x" : 0.8907294265830654,
+							"y" : 0.15125681553883494
+						},
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.552297165200391,
+								"red" : 0.9198435972629521
+							},
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "bf28bbc9-b7f8-0d00-aee0-f1bf07fab475"
+							},
+							"label" : "Forwarders",
+							"x" : 0.885327015631241,
+							"y" : 0.18692996733408646
 						}
 					]
 				},
 				"snippetHeight" : 611
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:27:09.411865-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:27:13.004523-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EtSOP7j4DQCJywCEB/q0dQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[Shielded Calls]]"
 			}
 		]
 	},

@@ -109,6 +109,114 @@
 					"uuid" : "6f4b910a-5af3-0d00-a68b-331b0215c96a"
 				}
 			}
+		},
+		{
+			"__type" : "explicitLink",
+			"linkUuid" : {
+				"__type" : "uuid",
+				"uuid" : "9ecb26e6-b7f8-0d00-aee6-b0e707fab475"
+			},
+			"createEmail" : {
+				"__type" : "email",
+				"emailString" : "<unknown>"
+			},
+			"createTime" : {
+				"__type" : "time",
+				"time" : {
+					"__type" : "dateAndTime",
+					"dateAndTimeString" : "2025-08-14T09:57:01.244356-07:00"
+				}
+			},
+			"originReference" : {
+				"__type" : "wardleyMapNodeReference",
+				"snippetUid" : {
+					"__type" : "uid",
+					"uidString" : "IzEkF3L3DQC73oxjBXNbUQ=="
+				},
+				"nodeUUID" : {
+					"__type" : "uuid",
+					"uuid" : "28b6f6d5-b7f8-0d00-aee1-444907fab475"
+				}
+			},
+			"targetReference" : {
+				"__type" : "pageReferenceByUid",
+				"pageUid" : {
+					"__type" : "uuid",
+					"uuid" : "f7c1e377-b7f8-0d00-99a5-b4d207fab475"
+				}
+			}
+		},
+		{
+			"__type" : "explicitLink",
+			"linkUuid" : {
+				"__type" : "uuid",
+				"uuid" : "fa006ffe-b7f8-0d00-b918-2d4607fab475"
+			},
+			"createEmail" : {
+				"__type" : "email",
+				"emailString" : "<unknown>"
+			},
+			"createTime" : {
+				"__type" : "time",
+				"time" : {
+					"__type" : "dateAndTime",
+					"dateAndTimeString" : "2025-08-14T10:03:48.629797-07:00"
+				}
+			},
+			"originReference" : {
+				"__type" : "wardleyMapNodeReference",
+				"snippetUid" : {
+					"__type" : "uid",
+					"uidString" : "IzEkF3L3DQC73oxjBXNbUQ=="
+				},
+				"nodeUUID" : {
+					"__type" : "uuid",
+					"uuid" : "9f8adc01-74f7-0d00-9b20-840f0d30dd1a"
+				}
+			},
+			"targetReference" : {
+				"__type" : "pageReferenceByUid",
+				"pageUid" : {
+					"__type" : "uuid",
+					"uuid" : "063146ed-b7f8-0d00-af2e-9f6607fab475"
+				}
+			}
+		},
+		{
+			"__type" : "explicitLink",
+			"linkUuid" : {
+				"__type" : "uuid",
+				"uuid" : "44933c13-b8f8-0d00-ba96-4b7707fab475"
+			},
+			"createEmail" : {
+				"__type" : "email",
+				"emailString" : "<unknown>"
+			},
+			"createTime" : {
+				"__type" : "time",
+				"time" : {
+					"__type" : "dateAndTime",
+					"dateAndTimeString" : "2025-08-14T10:09:37.646503-07:00"
+				}
+			},
+			"originReference" : {
+				"__type" : "wardleyMapNodeReference",
+				"snippetUid" : {
+					"__type" : "uid",
+					"uidString" : "IzEkF3L3DQC73oxjBXNbUQ=="
+				},
+				"nodeUUID" : {
+					"__type" : "uuid",
+					"uuid" : "d3fafe17-72f7-0d00-bbe1-bdb805735b51"
+				}
+			},
+			"targetReference" : {
+				"__type" : "pageReferenceByUid",
+				"pageUid" : {
+					"__type" : "uuid",
+					"uuid" : "cc2e9612-b8f8-0d00-ba93-435d07fab475"
+				}
+			}
 		}
 	],
 	"uid" : {

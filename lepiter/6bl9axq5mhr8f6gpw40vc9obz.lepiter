@@ -42,85 +42,10 @@
 				"string" : "Wardley map for the Anoma SDK product"
 			},
 			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-07T11:52:32.578289+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-07T11:52:32.578289+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "2UfkClrzDQCnBk1VAhXJag=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
-			},
-			{
 				"__type" : "wardleyMap",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-07T16:44:08.210687+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-07T16:44:08.210687+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "NTnQIFrzDQCnPb+9AhXJag=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -521,8 +446,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.2194170805622904,
-							"y" : 0.32343396608935393
+							"x" : 0.1501636424483415,
+							"y" : 0.5634339660893539
 						},
 						{
 							"color" : {
@@ -548,8 +473,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.3024069262277066,
-							"y" : 0.44565346018572816
+							"x" : 0.2839884586442096,
+							"y" : 0.7085106030428711
 						},
 						{
 							"color" : {
@@ -602,8 +527,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6994750563161859,
-							"y" : 0.3736782599452185
+							"x" : 0.7259976496364217,
+							"y" : 0.4593925456595042
 						},
 						{
 							"color" : {
@@ -656,8 +581,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.376897521013425,
-							"y" : 0.3022241354680287
+							"x" : 0.37468730490340535,
+							"y" : 0.46412889737279056
 						},
 						{
 							"color" : {
@@ -710,8 +635,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.6769604166164612,
-							"y" : 0.4690563043241799
+							"x" : 0.6835910649465202,
+							"y" : 0.6233420186098941
 						},
 						{
 							"color" : {
@@ -737,8 +662,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.7737095232970925,
-							"y" : 0.47249338715897515
+							"x" : 0.8311751421576034,
+							"y" : 0.6439219585875465
 						},
 						{
 							"color" : {
@@ -791,8 +716,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.16412971559243245,
-							"y" : 0.446120141106903
+							"x" : 0.12434582561207881,
+							"y" : 0.7623106172973793
 						},
 						{
 							"color" : {
@@ -926,8 +851,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.563807202309776,
-							"y" : 0.458935546875
+							"x" : 0.5741215441565343,
+							"y" : 0.6513164992559524
 						},
 						{
 							"color" : {
@@ -980,8 +905,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.457479574508064,
-							"y" : 0.4583740234375
+							"x" : 0.4633734841347831,
+							"y" : 0.7288502139136904
 						},
 						{
 							"color" : {
@@ -1007,49 +932,12 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.3705143042845548,
-							"y" : 0.4578076171875
+							"x" : 0.3771449526146137,
+							"y" : 0.7378076171875
 						}
 					]
 				},
-				"snippetHeight" : 828
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-07T11:58:43.522322+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-07T11:58:43.522322+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "cnEAIVrzDQCnbuS5AhXJag=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
+				"snippetHeight" : 513
 			}
 		]
 	},

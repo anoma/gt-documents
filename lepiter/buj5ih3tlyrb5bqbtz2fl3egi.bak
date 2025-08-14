@@ -307,7 +307,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-10T08:32:15.342397-07:00"
+												"dateAndTimeString" : "2025-07-10T08:32:16.374002-07:00"
 											}
 										},
 										"uid" : {
@@ -317,7 +317,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Annoying these should be linked automatically \n[[DEX Wardley Map]]\n [[Plasma Wardley Map]]\n [[Anoma SDK]]"
+										"string" : "Annoying these should be linked automatically.\n[[DEX Wardley Map]]\n [[Plasma Wardley Map]]\n [[Anoma SDK]]"
 									}
 								]
 							},

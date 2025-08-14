@@ -1,0 +1,76 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:23:09.248161-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:25:14.52091-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "A1w8Qbj4DQCKVcheB/q0dQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Another entry point of [[ERC20 Wrapping Mechanism]], it's just another resource kind that you are going into.\n\nSee:\n <https://research.anoma.net/t/outline-of-kudos-denomination-for-wrapping-a-given-erc20-token/1865>\n  \nNote we can not convert the [[ERC20 Wrapping Mechanism]] to a Kudos or Vice versa have to go thorugh Ethereum itself currently"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-08-14T10:22:16.230774-07:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-08-14T10:22:16.230774-07:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "ERC20 Kudos FW"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "27a67340-b8f8-0d00-8a43-0b5507fab475"
+	}
+}

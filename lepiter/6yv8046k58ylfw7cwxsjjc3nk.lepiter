@@ -1,0 +1,113 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:27:14.269238-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:28:30.774419-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "k1w3Urj4DQCTJpCdB/q0dQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Using a Forwarder Contract is a 2 step process.\n1. Forwarder call data must be put into the app-data of a specific resource\n2. A call will only be preformed by specific resources (another resource should not call to withdraw stuff)\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:28:31.259227-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-08-14T10:30:51.416664-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "9h7OVrj4DQCYVriRB/q0dQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "So we encode the kind of the resource that the forwarder call should be attached to.\n\nThere are a few strategies to handle this:\n\n**Option 1**:\nWe only have a sha256, so we provide the plaintext of the resource so we can hash it.\n\n**Option 2:**\nWe only reveal we need a specific kind, so we encode a simple ZKP that tells us if the tag or does not have the tag specified. Thus we don't reveal owner data, or any other pieces of information"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-08-14T10:27:14.163052-07:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-08-14T10:27:14.163052-07:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Shielded Calls"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "80bc3552-b8f8-0d00-9325-9db007fab475"
+	}
+}
