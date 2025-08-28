@@ -6,42 +6,6 @@
 			"__type" : "explicitLink",
 			"linkUuid" : {
 				"__type" : "uuid",
-				"uuid" : "8e7bcf0b-aef9-0d00-b0e0-74a80485bbde"
-			},
-			"createEmail" : {
-				"__type" : "email",
-				"emailString" : "<unknown>"
-			},
-			"createTime" : {
-				"__type" : "time",
-				"time" : {
-					"__type" : "dateAndTime",
-					"dateAndTimeString" : "2025-08-26T15:36:55.011277-07:00"
-				}
-			},
-			"originReference" : {
-				"__type" : "wardleyMapNodeReference",
-				"snippetUid" : {
-					"__type" : "uid",
-					"uidString" : "ISFv+az5DQCwVJVPBIW73g=="
-				},
-				"nodeUUID" : {
-					"__type" : "uuid",
-					"uuid" : "966653c0-adf9-0d00-b07f-ace10485bbde"
-				}
-			},
-			"targetReference" : {
-				"__type" : "pageReferenceByUid",
-				"pageUid" : {
-					"__type" : "uuid",
-					"uuid" : "b3770d08-aef9-0d00-b0d8-32050485bbde"
-				}
-			}
-		},
-		{
-			"__type" : "explicitLink",
-			"linkUuid" : {
-				"__type" : "uuid",
 				"uuid" : "9d7cb50d-aef9-0d00-b0e2-7cba0485bbde"
 			},
 			"createEmail" : {

@@ -37,6 +37,42 @@
 					"uuid" : "b3770d08-aef9-0d00-b0d8-32050485bbde"
 				}
 			}
+		},
+		{
+			"__type" : "explicitLink",
+			"linkUuid" : {
+				"__type" : "uuid",
+				"uuid" : "e4f62b95-d0f9-0d00-898b-ff190485bbde"
+			},
+			"createEmail" : {
+				"__type" : "email",
+				"emailString" : "<unknown>"
+			},
+			"createTime" : {
+				"__type" : "time",
+				"time" : {
+					"__type" : "dateAndTime",
+					"dateAndTimeString" : "2025-08-28T08:49:08.4388-07:00"
+				}
+			},
+			"originReference" : {
+				"__type" : "wardleyMapNodeReference",
+				"snippetUid" : {
+					"__type" : "uid",
+					"uidString" : "ISFv+az5DQCwVJVPBIW73g=="
+				},
+				"nodeUUID" : {
+					"__type" : "uuid",
+					"uuid" : "c83465fc-acf9-0d00-b058-1d8a0485bbde"
+				}
+			},
+			"targetReference" : {
+				"__type" : "pageReferenceByUid",
+				"pageUid" : {
+					"__type" : "uuid",
+					"uuid" : "1a741fb2-29f4-0d00-8c01-151d07d33864"
+				}
+			}
 		}
 	],
 	"uid" : {
