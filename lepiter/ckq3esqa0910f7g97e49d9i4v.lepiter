@@ -188,7 +188,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-06-23T10:26:31.667092-07:00"
+												"dateAndTimeString" : "2025-09-02T10:27:26.037894-07:00"
 											}
 										},
 										"uid" : {
@@ -198,7 +198,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "[[Anoma V1[Mainnet]: June 2025 - April 2025]]"
+										"string" : "[[Anoma V1 Dagon]]"
 									},
 									{
 										"__type" : "textSnippet",
