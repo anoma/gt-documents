@@ -815,14 +815,18 @@
 												{
 													"__type" : "uuid",
 													"uuid" : "66671231-d5f9-0d00-89cd-9392007d323b"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "a80a6b45-58fa-0d00-b92a-380d0ac978df"
 												}
 											],
 											"is_visible" : true,
-											"x" : 0.2388068299223514,
+											"x" : 0.23880682992235142,
 											"y" : 0.45686718523994707
 										},
 										"width" : 12,
-										"x" : 0.3192521937578344,
+										"x" : 0.32727106168236275,
 										"y" : 0.3409475133451867
 									},
 									{
@@ -1232,8 +1236,8 @@
 										},
 										"label" : {
 											"text" : "Prediction markets",
-											"x" : 2.0,
-											"y" : -1.25
+											"x" : 1.0833333333333333,
+											"y" : -1.1666666666666667
 										},
 										"pipeline" : {
 											"is_visible" : false
@@ -1286,7 +1290,7 @@
 										},
 										"label" : {
 											"text" : "Same Currency Inflation",
-											"x" : 1.0833333333333333,
+											"x" : 0.75,
 											"y" : 2.0
 										},
 										"pipeline" : {
@@ -1414,6 +1418,10 @@
 												{
 													"__type" : "uuid",
 													"uuid" : "7287027d-36fa-0d00-a950-af28062a7cb2"
+												},
+												{
+													"__type" : "uuid",
+													"uuid" : "d49d526f-58fa-0d00-b92d-cc510ac978df"
 												}
 											],
 											"is_visible" : true,
@@ -1619,8 +1627,8 @@
 										},
 										"label" : {
 											"text" : "Fee Markets",
-											"x" : -0.25,
-											"y" : 1.4166666666666667
+											"x" : 0.08333333333333333,
+											"y" : 2.0833333333333335
 										},
 										"pipeline" : {
 											"is_visible" : false
@@ -1680,7 +1688,61 @@
 											"is_visible" : false
 										},
 										"width" : 12,
-										"x" : 0.7590870934990265,
+										"x" : 0.7722946406688378,
+										"y" : 0.43478374989347335
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.552297165200391,
+											"red" : 0.9198435972629521
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "a80a6b45-58fa-0d00-b92a-380d0ac978df"
+										},
+										"label" : {
+											"text" : "Tokenizing Stocks",
+											"x" : 1.25,
+											"y" : 1.9166666666666667
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.35741498695229584,
+										"y" : 0.3409475133451867
+									},
+									{
+										"color" : {
+											"alpha" : 1.0,
+											"blue" : 0.0,
+											"green" : 0.5004887585532747,
+											"red" : 0.0
+										},
+										"evolve" : {
+											"is_visible" : false
+										},
+										"height" : 12,
+										"id" : {
+											"__type" : "uuid",
+											"uuid" : "d49d526f-58fa-0d00-b92d-cc510ac978df"
+										},
+										"label" : {
+											"text" : "Transaction Fees",
+											"x" : 0.5,
+											"y" : 2.0
+										},
+										"pipeline" : {
+											"is_visible" : false
+										},
+										"width" : 12,
+										"x" : 0.7421094498544369,
 										"y" : 0.43478374989347335
 									}
 								],

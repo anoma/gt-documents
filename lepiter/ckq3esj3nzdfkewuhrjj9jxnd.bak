@@ -34,7 +34,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-01T00:37:14.377399+08:00"
+									"dateAndTimeString" : "2025-06-01T00:37:24.627008+08:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +44,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Welcome to the management reading group, this group deals with trying to teach various management lessons through reading classic literature on the subject and relating it to busin"
+							"string" : "Welcome to the management reading group, this group deals with trying to teach various management lessons through reading classic literature on the subject and relating it to various aspects of real business."
 						}
 					]
 				},
@@ -1053,8 +1053,8 @@
 								"is_visible" : false
 							},
 							"width" : 12,
-							"x" : 0.37,
-							"y" : 0.29000000000000004
+							"x" : 0.35097483465530016,
+							"y" : 0.27966408268733856
 						},
 						{
 							"color" : {
@@ -1548,7 +1548,7 @@
 						"text" : "Management Reading Group"
 					}
 				},
-				"snippetHeight" : 415
+				"snippetHeight" : 491
 			}
 		]
 	},
