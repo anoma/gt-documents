@@ -1,0 +1,109 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "wardleyMap",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-11T20:46:57.368442+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-11T20:46:57.368442+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dVdBRgk6SEWHyqhZGoPyhA=="
+				},
+				"wardleyMapDictionary" : {
+					"edges" : [ ],
+					"nodes" : [
+						{
+							"color" : {
+								"alpha" : 1.0,
+								"blue" : 0.0,
+								"green" : 0.0,
+								"red" : 0.0
+							},
+							"evolve" : {
+								"is_visible" : false
+							},
+							"height" : 12,
+							"id" : {
+								"__type" : "uuid",
+								"uuid" : "cf699009-70fe-4254-a896-56d8d578199b"
+							},
+							"label" : {
+								"text" : "Foo",
+								"x" : 0.5,
+								"y" : 2.0
+							},
+							"pipeline" : {
+								"is_visible" : false
+							},
+							"width" : 12,
+							"x" : 0.5004817789573776,
+							"y" : 0.28181527510192894
+						}
+					],
+					"title" : {
+						"is_visible" : true,
+						"text" : "Dagoth Wardly Map"
+					}
+				},
+				"snippetHeight" : 404
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2026-05-11T20:46:52.075065+08:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2026-05-11T20:46:52.075065+08:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Dagoth"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "340433d0-68ff-49ed-a0a1-b8f0cea05b46"
+	}
+}
