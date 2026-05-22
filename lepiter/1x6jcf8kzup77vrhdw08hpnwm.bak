@@ -1,0 +1,597 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:00:44.351912+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-22T15:48:06.748722+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "hK9fHwU4QCCQtlEYMCmtNQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "EIP 7702 makes accounts programmable.\n<https://eips.ethereum.org/EIPS/eip-7702>"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:04:57.979117+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:05:19.914239+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "t3/G4SuaSjGIt/u42+fBpQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Added during the Pectra hardfork **May 7 2025**"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-21T00:01:08.777712+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-21T00:01:24.375221+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "AjZlVtVlQeq5ox9kJOjdqg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Vitalik Buterin\nSam Wilson\nAnsgar Dietrichs\nlightclient"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:01:03.999398+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:01:06.367301+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "5k0x/PLGTTu3yw5UOh8nLw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Authors"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-21T00:06:26.422115+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:35:46.716805+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "mKR9MBRXRlmBgyz0ZVaQFQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Allows EOAs to set code transaction by adding a list of authorization tuples in the forum of:\n\n`(chain_id, address, nonce, y_parity, r, s)` \n\nOnce this happens your EOA now has: \n\n`code = 0xef0100 <> address.`\n\nNote that `0xef0100` is a  delegation designator that notes the code lives elsewhere. For why `0xef` is chosen here see [[EIP 3541]] for more details.\n\nThis can be revoked by signing an authorization tuple with address:\n`0x0000000000000000000000000000000000000000`\n\nThe `[y_parity, r, s]` is the resulting ECDSA signature. see Details for more info."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:38:33.598265+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:40:16.026502+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "11KxMQe/QduHxW4n90EoEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "**1. Transaction Batching** - Allows aprove + swap in a single transactions."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:40:36.397459+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:45:37.880973+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cKnfHwl+R/KMISaftCrWFg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "**2. Gas sponership (gasless UX)**\nTwo flavors of ability:\n\nSponsored setup: a relayer submits the authorization tuple; user never needs ETH to install the delegation.\n\nSponsored actions: delegated contract exposes execute(userSig, calls). Relayer pays gas, contract verifies the user's off-chain signature, runs the calls. Composes with ERC-4337 paymasters."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:46:47.420609+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:47:17.988262+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "aG/QKw6oRi2o6HROacOfpA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Many more since this makes the user's account programable. Meaning we can do M-N multisigs and more"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:06:23.193822+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:06:25.473194+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "1N6Wx56yRPSmbAHsYmRgAQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Features"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T14:46:05.970433+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T14:58:33.499799+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "q1CUWc9SSOm5o9C7Atubng=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "This is done by introducing a new transaction type `0x04` or Type-4 "
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T14:51:22.337686+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:32:05.266547+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Zz7/YUJ5SAyMYWPKzGBOMQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "```\n  0x04 <> rlp([\n      chain_id,\n      nonce,\n      max_priority_fee_per_gas, # from EIP-1559\n      max_fee_per_gas,          # from EIP-1559\n      gas_limit,\n      destination,          # 20-byte address (NOT nullable!)\n      value,\n      data,\n      access_list,          # from EIP-2930\n      authorization_list,   # each tuple has its own y_parity, r, s\n                            #   → signs the per-authorization hash\n      signature_y_parity,   # ┐\n      signature_r,          # ├─ outer signature: signed by the SENDER\n      signature_s           # ┘  (whoever pays gas / is tx.origin)\n                            #    signs the whole tx envelope\n\n  ])\n```\n\n```\nauthorization_list = [ # must be non empty\n      [chain_id, address, nonce, y_parity, r, s],\n      [chain_id, address, nonce, y_parity, r, s],\n      ...\n  ]\n  ```"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:25:40.992302+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:34:34.832712+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "L7yHyxCbTIOeoDNQ9+sAxQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Note that we protect against replay and change with `y_parity, r, s`, with the following transformation\n\n```js\n  [chain_id, address, nonce]\n          │\n          ▼  rlp + prepend 0x05 (domain separator)\n  0x05 <> rlp([chain_id, address, nonce])\n          │\n          ▼  keccak256\n  digest (32 bytes)\n          │\n          ▼  ECDSA_sign with EOA's private key\n  (r, s, y_parity)\n          │\n          ▼  appended to the tuple, broadcast on chain\n  [chain_id, address, nonce, y_parity, r, s]\n          │\n          ▼  validator: ecrecover(digest, y_parity, r, s)\n  signer's address → that account gets the delegation\n  ```"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:27:44.319962+08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-05-22T15:37:19.401115+08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "sgw2vD6wQO61kx5M7DZDUw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "```prolog\necdsa_sign(Z, D, sig(R, S, Yparity)) :-\n      curve(secp256k1, N, G),  % N = curve order, G = generator\n      NMinus1 = N - 1,\n      random_between(1, NMinus1, K),\n      Point = K · G,\n      point_coords(Point, X, Y),\n      R = X mod N,\n      mod_inverse(K, N, KInv),\n      S = (KInv * (Z + R * D)) mod N,\n      Yparity = Y mod 2.\n```"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-22T14:50:06.207394+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-22T14:50:08.870525+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "7C3JX544TZS1A1rMJMRbHQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Details"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:01:11.034085+08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-05-21T00:01:11.034085+08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ppcMvlveSJqMjyT9bBlQaA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2026-05-21T00:00:42.127368+08:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2026-05-21T00:00:42.127368+08:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "EIP 7702: Set Code Transaction"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "46168479-3dea-40f6-8189-6ab7f7c27520"
+	}
+}
